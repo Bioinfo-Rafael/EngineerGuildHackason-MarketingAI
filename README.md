@@ -2,49 +2,39 @@
 
 訪問したURLの系列から次の訪問先を予測する GRU Encoder–Decoder（seq2seq）の学習・評価用リポジトリ。（データは `data/` に同梱）。
 
-### モデルに入力するデータの型と形状
+### データの型と形状
 
-**1. ファイル上の JSON**（`data/processed/{user_id}.json`）
+#### 表1 — 生データ（`data/processed/{1..21}.json`）
 
-| 階層 | 型 | 説明 |
+| 項目 | 型 | 備考 |
 |------|-----|------|
-| ルート | `list[dict]` | 長さ 9（タスク数） |
-| 各要素 | `dict` | キー: `task_id: int`, `clickstream: list[dict]` |
-| `clickstream` の1要素 | `dict` | `user_id: int`, `previous_url: str`, `current_url: str`, `stay_seconds: float`, `time: str`（ISO8601） |
+| ファイル全体 | `list`（長さ 9） | 1ファイル = 参加者1人分。要素はタスク1件 |
+| タスク1件 | `dict` | `task_id: int`, `clickstream: list` |
+| `clickstream` の要素1件 | `dict` | `user_id: int`, `previous_url: str`, `current_url: str`, `stay_seconds: float`, `time: str` |
 
-`clickstream` は「遷移ログの配列」であり、配列の並び順が時間順。モデル学習では **`previous_url` の列だけ**を取り出し、他フィールドはテンソル化しない。
+`clickstream` は **Webページを閲覧した時間順に並んだ `list`**。学習コードが使うのは各要素の **`previous_url` だけ**（他キーは読まない）。
 
-**2. 1サンプル（1タスク）の中間表現**（`src/dataset.py`）
+#### 前処理（`src/dataset.py` の `build_tensors`）
 
-| 変数 | 型 | 長さの目安 |
-|------|-----|------------|
-| URL列 | `list[str]` | クリック数 = `len(clickstream)` |
-| トークン列（入力側） | `list[int]` | `1 + len(先頭部分) + (0 or 1)`（`<SOA>`, URL…, 任意で `<COI>`） |
-| トークン列（出力側） | `list[int]` | `len(末尾部分) + 1`（URL…, `<EOA_*>`） |
+1. **サンプル抽出** — `user_id` 1〜21 × `task_id` 1〜9 → 計 **189 サンプル**（1サンプル = タスク1件）。
+2. **URL列の作成** — そのタスクの `clickstream` を先頭から走査し、`previous_url` だけを順に並べた `list[str]` を作る。
+3. **時系列分割** — `split_ratio`（既定 `0.99`）で URL 列を前後に切る。  
+   - 前側 → エンコーダ用  
+   - 後側 → デコーダが当てる正解側
+4. **ID化** — `data/vocabs.txt` で URL 文字列を整数 ID に変換（未知 URL は `7` = `<MIS>`）。先頭・末尾に特殊 ID を付与（`<SOA>`=1, `<COI>`=2, `<EOA_*>`=4〜6 など）。
+5. **長さ揃え** — 189 サンプル間で最大長に合わせ、短い列は `<PAD>`（0）で埋める（`pad_sequences`）。
+6. **正解の one-hot 化** — デコーダ側の各時刻ラベルを `float32` の one-hot ベクトルにする（語彙数 `V` ≈ 2873 次元）。
 
-先頭/末尾の切り方: `split_ratio`（既定 `0.99`）で URL列を  
-`sentence[:int(len(sentence)*split_ratio)]` と `sentence[int(len(sentence)*split_ratio):]` に分割。
+#### 表2 — モデル入力直前（`split_ratio: 0.99` の実測例）
 
-語彙: `data/vocabs.txt` の行番号がトークン ID。語彙数 `V` ≈ 2873（特殊トークン 8 個 + URL）。
+| 変数名 | dtype | shape | `model.fit` での役割 |
+|--------|-------|-------|----------------------|
+| `input_s` | `int64` | `(189, 90)` | `X[0]` … エンコーダ入力 |
+| `output_s` | `int64` | `(189, 1)` | `X[1]` … デコーダ入力（教師強制） |
+| `output_s_one_shot` | `float32` | `(189, 1, 2873)` | `y` … 各時刻の正解分布 |
 
-**3. バッチ化後の NumPy 配列**（全 189 サンプル = 21 ユーザー × 9 タスク）
-
-`configs/default.yaml` の `split_ratio: 0.99` 時の実測例:
-
-| 名前 | dtype | shape | 内容 |
-|------|-------|-------|------|
-| `input_s` | `int64` | `(189, 90)` | エンコーダ第1入力（パディング値 `0` = `<PAD>`） |
-| `output_s` | `int64` | `(189, 1)` | デコーダ第2入力（教師強制用トークン ID） |
-| `output_s_one_shot` | `float32` | `(189, 1, 2873)` | 正解ラベル（各時刻の one-hot、語彙次元 `V`） |
-
-**4. `model.fit` の引数**
-
-```text
-X = [input_s, output_s]   # 長さ2のリスト（多入力）
-y = output_s_one_shot     # shape (N, T_out, V)
-```
-
-`N=189`。`T_in`, `T_out` はデータセット内の最大クリック長と `split_ratio` から決まる（上記例では `T_in=90`, `T_out=1`）。
+呼び出し: `model.fit([input_s, output_s], output_s_one_shot, ...)`。  
+`189` = サンプル数、`90` / `1` = 入力・出力のタイムステップ数（データの最大クリック長と `split_ratio` で決まる）、`2873` = 語彙数 `V`。
 
 ## ディレクトリ構成
 
