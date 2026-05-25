@@ -2,40 +2,6 @@
 
 訪問したURLの系列から次の訪問先を予測する GRU Encoder–Decoder（seq2seq）の学習・評価用リポジトリ。（データは `data/` に同梱）。
 
-### データの型と形状
-
-#### 表1 — 生データ（`data/processed/{1..21}.json`）
-
-| 項目 | 型 | 備考 |
-|------|-----|------|
-| ファイル全体 | `list`（長さ 9） | 1ファイル = 参加者1人分。要素はタスク1件 |
-| タスク1件 | `dict` | `task_id: int`, `clickstream: list` |
-| `clickstream` の要素1件 | `dict` | `user_id: int`, `previous_url: str`, `current_url: str`, `stay_seconds: float`, `time: str` |
-
-`clickstream` は **Webページを閲覧した時間順に並んだ `list`**。学習コードが使うのは各要素の **`previous_url` だけ**（他キーは読まない）。
-
-#### 前処理（`src/dataset.py` の `build_tensors`）
-
-1. **サンプル抽出** — `user_id` 1〜21 × `task_id` 1〜9 → 計 **189 サンプル**（1サンプル = タスク1件）。
-2. **URL列の作成** — そのタスクの `clickstream` を先頭から走査し、`previous_url` だけを順に並べた `list[str]` を作る。
-3. **時系列分割** — `split_ratio`（既定 `0.99`）で URL 列を前後に切る。  
-   - 前側 → エンコーダ用  
-   - 後側 → デコーダが当てる正解側
-4. **ID化** — `data/vocabs.txt` で URL 文字列を整数 ID に変換（未知 URL は `7` = `<MIS>`）。先頭・末尾に特殊 ID を付与（`<SOA>`=1, `<COI>`=2, `<EOA_*>`=4〜6 など）。
-5. **長さ揃え** — 189 サンプル間で最大長に合わせ、短い列は `<PAD>`（0）で埋める（`pad_sequences`）。
-6. **正解の one-hot 化** — デコーダ側の各時刻ラベルを `float32` の one-hot ベクトルにする（語彙数 `V` ≈ 2873 次元）。
-
-#### 表2 — モデル入力直前（`split_ratio: 0.99` の実測例）
-
-| 変数名 | dtype | shape | `model.fit` での役割 |
-|--------|-------|-------|----------------------|
-| `input_s` | `int64` | `(189, 90)` | `X[0]` … エンコーダ入力 |
-| `output_s` | `int64` | `(189, 1)` | `X[1]` … デコーダ入力（教師強制） |
-| `output_s_one_shot` | `float32` | `(189, 1, 2873)` | `y` … 各時刻の正解分布 |
-
-呼び出し: `model.fit([input_s, output_s], output_s_one_shot, ...)`。  
-`189` = サンプル数、`90` / `1` = 入力・出力のタイムステップ数（データの最大クリック長と `split_ratio` で決まる）、`2873` = 語彙数 `V`。
-
 ## ディレクトリ構成
 
 ```
@@ -122,6 +88,43 @@ python -m src.train --epochs 1500
 python3 scripts/sanitize_secrets.py
 python3 scripts/build_vocab.py   # vocabs.txt を再生成
 ```
+
+
+## データの型と形状
+
+#### 表1 — 生データ（`data/processed/{1..21}.json`）
+
+| 項目 | 型 | 備考 |
+|------|-----|------|
+| ファイル全体 | `list`（長さ 9） | 1ファイル = 参加者1人分。要素はタスク1件 |
+| タスク1件 | `dict` | `task_id: int`, `clickstream: list` |
+| `clickstream` の要素1件 | `dict` | `user_id: int`, `previous_url: str`, `current_url: str`, `stay_seconds: float`, `time: str` |
+
+`clickstream` は **Webページを閲覧した時間順に並んだ `list`**。学習コードが使うのは各要素の **`previous_url` だけ**（他キーは読まない）。
+
+#### 前処理（`src/dataset.py` の `build_tensors`）
+
+1. **サンプル抽出** — `user_id` 1〜21 × `task_id` 1〜9 → 計 **189 サンプル**（1サンプル = タスク1件）。
+2. **URL列の作成** — そのタスクの `clickstream` を先頭から走査し、`previous_url` だけを順に並べた `list[str]` を作る。
+3. **時系列分割** — `split_ratio`（既定 `0.99`）で URL 列を前後に切る。  
+   - 前側 → エンコーダ用  
+   - 後側 → デコーダが当てる正解側
+4. **ID化** — `data/vocabs.txt` で URL 文字列を整数 ID に変換（未知 URL は `7` = `<MIS>`）。先頭・末尾に特殊 ID を付与（`<SOA>`=1, `<COI>`=2, `<EOA_*>`=4〜6 など）。
+5. **長さ揃え** — 189 サンプル間で最大長に合わせ、短い列は `<PAD>`（0）で埋める（`pad_sequences`）。
+6. **正解の one-hot 化** — デコーダ側の各時刻ラベルを `float32` の one-hot ベクトルにする（語彙数 `V` ≈ 2873 次元）。
+
+#### 表2 — モデル入力直前（`split_ratio: 0.99` の実測例）
+
+| 変数名 | dtype | shape | `model.fit` での役割 |
+|--------|-------|-------|----------------------|
+| `input_s` | `int64` | `(189, 90)` | `X[0]` … エンコーダ入力 |
+| `output_s` | `int64` | `(189, 1)` | `X[1]` … デコーダ入力（教師強制） |
+| `output_s_one_shot` | `float32` | `(189, 1, 2873)` | `y` … 各時刻の正解分布 |
+
+呼び出し: `model.fit([input_s, output_s], output_s_one_shot, ...)`。  
+`189` = サンプル数、`90` / `1` = 入力・出力のタイムステップ数（データの最大クリック長と `split_ratio` で決まる）、`2873` = 語彙数 `V`。
+
+
 
 ## ライセンス
 
