@@ -1,0 +1,2014 @@
+[
+    {
+        "task_id": 1,
+        "clickstream": [
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=iphone+8",
+                "stay_seconds": 17.104,
+                "time": "2018-11-22T14:06:52Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=iphone+8",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss_2?field-keywords=iphone%208&language=de_DE&url=search-alias%3Daps",
+                "stay_seconds": 13.013,
+                "time": "2018-11-22T14:07:05Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss_2?field-keywords=iphone%208&language=de_DE&url=search-alias%3Daps",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=node%3D7072561011&field-keywords=iphone+8+black&rh=n%3A7072561011%2Ck%3Aiphone+8+black",
+                "stay_seconds": 31.152,
+                "time": "2018-11-22T14:07:36Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=node%3D7072561011&field-keywords=iphone+8+black&rh=n%3A7072561011%2Ck%3Aiphone+8+black",
+                "current_url": "https://www.amazon.com/Apple-iPhone-GSM-Unlocked-64GB/dp/B0775MV9K2/ref=sr_1_3?s=wireless&ie=UTF8&qid=1542895656&sr=1-3&keywords=iphone+8+black",
+                "stay_seconds": 10.516,
+                "time": "2018-11-22T14:07:46Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Apple-iPhone-GSM-Unlocked-64GB/dp/B0775MV9K2/ref=sr_1_3?s=wireless&ie=UTF8&qid=1542895656&sr=1-3&keywords=iphone+8+black",
+                "current_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "stay_seconds": 15.005,
+                "time": "2018-11-22T14:08:01Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "current_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C95c6dbff-6825-4edb-a269-f3bad93cbb05%2C1",
+                "stay_seconds": 4.958,
+                "time": "2018-11-22T14:08:06Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C95c6dbff-6825-4edb-a269-f3bad93cbb05%2C1",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_ss_i_3_9?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=iphone+8+case&sprefix=iphone+8+%2Caps%2C233&crid=2YBTABASNOSGA",
+                "stay_seconds": 12.518,
+                "time": "2018-11-22T14:08:19Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_ss_i_3_9?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=iphone+8+case&sprefix=iphone+8+%2Caps%2C233&crid=2YBTABASNOSGA",
+                "current_url": "https://www.amazon.com/Spigen-Classic-Anniversary-Limited-Technology/dp/B07D4NDZ9Y/ref=sr_1_1_sspa?s=wireless&ie=UTF8&qid=1542895697&sr=1-1-spons&keywords=iphone+8+case&psc=1",
+                "stay_seconds": 40.394,
+                "time": "2018-11-22T14:08:59Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Spigen-Classic-Anniversary-Limited-Technology/dp/B07D4NDZ9Y/ref=sr_1_1_sspa?s=wireless&ie=UTF8&qid=1542895697&sr=1-1-spons&keywords=iphone+8+case&psc=1",
+                "current_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "stay_seconds": 17.42,
+                "time": "2018-11-22T14:09:17Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "current_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C1b3e432a-e798-4e22-935c-18d5dfb2d509%2C1",
+                "stay_seconds": 3.548,
+                "time": "2018-11-22T14:09:20Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C1b3e432a-e798-4e22-935c-18d5dfb2d509%2C1",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_ss_i_3_29?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=wireless+charger+dock+iphone+8&sprefix=wireless+charger+dock+iphone+%2Caps%2C215&crid=93LFNYL62U9Y",
+                "stay_seconds": 14.211,
+                "time": "2018-11-22T14:09:35Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_ss_i_3_29?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=wireless+charger+dock+iphone+8&sprefix=wireless+charger+dock+iphone+%2Caps%2C215&crid=93LFNYL62U9Y",
+                "current_url": "https://www.amazon.com/s/ref=sr_qz_back?sf=qz%2Crba&rh=i%3Aaps%2Ck%3Awireless+charger+dock+iphone+8&keywords=wireless+charger+dock+iphone+8&unfiltered=1&ie=UTF8&qid=1542895773",
+                "stay_seconds": 33.045,
+                "time": "2018-11-22T14:10:08Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_qz_back?sf=qz%2Crba&rh=i%3Aaps%2Ck%3Awireless+charger+dock+iphone+8&keywords=wireless+charger+dock+iphone+8&unfiltered=1&ie=UTF8&qid=1542895773",
+                "current_url": "https://www.amazon.com/iPhone-Battery-Case-Wireless-Charger/dp/B07D2YQL2F/ref=sr_1_1_sspa?ie=UTF8&qid=1542895806&sr=8-1-spons&keywords=wireless+charger+dock+iphone+8&psc=1",
+                "stay_seconds": 13.956,
+                "time": "2018-11-22T14:10:22Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/iPhone-Battery-Case-Wireless-Charger/dp/B07D2YQL2F/ref=sr_1_1_sspa?ie=UTF8&qid=1542895806&sr=8-1-spons&keywords=wireless+charger+dock+iphone+8&psc=1",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=wireless+charger++iphone+8",
+                "stay_seconds": 24.89,
+                "time": "2018-11-22T14:10:46Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=wireless+charger++iphone+8",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=wireless+charger++iphone&rh=i%3Aaps%2Ck%3Awireless+charger++iphone",
+                "stay_seconds": 2.049,
+                "time": "2018-11-22T14:10:48Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=wireless+charger++iphone&rh=i%3Aaps%2Ck%3Awireless+charger++iphone",
+                "current_url": "https://www.amazon.com/s/ref=sr_st_review-rank?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&keywords=wireless+charger++iphone&rh=i%3Aaps%2Ck%3Awireless+charger++iphone&qid=1542895848&sort=review-rank",
+                "stay_seconds": 22.984,
+                "time": "2018-11-22T14:11:11Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_st_review-rank?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&keywords=wireless+charger++iphone&rh=i%3Aaps%2Ck%3Awireless+charger++iphone&qid=1542895848&sort=review-rank",
+                "current_url": "https://www.amazon.com/BTCHARGE-Compatible-Wireless-Charging-Qi-Enabled/dp/B07KCNRHJ5/ref=sr_1_1?ie=UTF8&qid=1542895860&sr=8-1&keywords=wireless+charger++iphone",
+                "stay_seconds": 1.989,
+                "time": "2018-11-22T14:11:13Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/BTCHARGE-Compatible-Wireless-Charging-Qi-Enabled/dp/B07KCNRHJ5/ref=sr_1_1?ie=UTF8&qid=1542895860&sr=8-1&keywords=wireless+charger++iphone",
+                "current_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "stay_seconds": 7.795,
+                "time": "2018-11-22T14:11:21Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "current_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C13a1f1c6-d3b8-42e4-b324-647714003886%2C1",
+                "stay_seconds": 17.042,
+                "time": "2018-11-22T14:11:38Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C13a1f1c6-d3b8-42e4-b324-647714003886%2C1",
+                "current_url": "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0",
+                "stay_seconds": 0.424,
+                "time": "2018-11-22T14:11:39Z"
+            }
+        ]
+    },
+    {
+        "task_id": 2,
+        "clickstream": [
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_ss_i_7_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=pig+stuffed+animal&sprefix=pig+%2Caps%2C229&crid=FWSU9KWYDKW8",
+                "stay_seconds": 14.889,
+                "time": "2018-11-22T14:12:53Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_ss_i_7_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=pig+stuffed+animal&sprefix=pig+%2Caps%2C229&crid=FWSU9KWYDKW8",
+                "current_url": "https://www.amazon.com/d/Plush-Puppets/Melissa-Doug-Giant-Pig-Lifelike/B00LH1WW8E/ref=sr_1_8?s=toys-and-games&ie=UTF8&qid=1542895971&sr=1-8&keywords=pig+stuffed+animal",
+                "stay_seconds": 19.968,
+                "time": "2018-11-22T14:13:12Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/d/Plush-Puppets/Melissa-Doug-Giant-Pig-Lifelike/B00LH1WW8E/ref=sr_1_8?s=toys-and-games&ie=UTF8&qid=1542895971&sr=1-8&keywords=pig+stuffed+animal",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_ss_i_5_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=jewish+calendar+2019&sprefix=jewish%2Caps%2C225&crid=3V1EE42CWKATZ",
+                "stay_seconds": 37.553,
+                "time": "2018-11-22T14:13:50Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_ss_i_5_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=jewish+calendar+2019&sprefix=jewish%2Caps%2C225&crid=3V1EE42CWKATZ",
+                "current_url": "https://www.amazon.com/s/ref=sr_st_review-rank?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&keywords=jewish+calendar+2019&rh=i%3Aaps%2Ck%3Ajewish+calendar+2019&qid=1542896029&sort=review-rank",
+                "stay_seconds": 12.77,
+                "time": "2018-11-22T14:14:03Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_st_review-rank?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&keywords=jewish+calendar+2019&rh=i%3Aaps%2Ck%3Ajewish+calendar+2019&qid=1542896029&sort=review-rank",
+                "current_url": "https://www.amazon.com/gp/search/ref=sr_qz_back?sf=qz%2Crba&rh=i%3Aaps%2Ck%3Ajewish+calendar+2019&sort=review-rank&keywords=jewish+calendar+2019&unfiltered=1&ie=UTF8&qid=1542896038",
+                "stay_seconds": 1.468,
+                "time": "2018-11-22T14:14:04Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/search/ref=sr_qz_back?sf=qz%2Crba&rh=i%3Aaps%2Ck%3Ajewish+calendar+2019&sort=review-rank&keywords=jewish+calendar+2019&unfiltered=1&ie=UTF8&qid=1542896038",
+                "current_url": "https://www.amazon.com/s/ref=sr_nr_p_n_feature_two_brow_0?sf=qz%2Crba&fst=as%3Aoff&rh=n%3A283155%2Ck%3Ajewish+calendar+2019%2Cp_n_feature_two_browse-bin%3A17928809011&sort=review-rank&keywords=jewish+calendar+2019&unfiltered=1&ie=UTF8&qid=1542896043&rnid=3248858011",
+                "stay_seconds": 7.02,
+                "time": "2018-11-22T14:14:11Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_nr_p_n_feature_two_brow_0?sf=qz%2Crba&fst=as%3Aoff&rh=n%3A283155%2Ck%3Ajewish+calendar+2019%2Cp_n_feature_two_browse-bin%3A17928809011&sort=review-rank&keywords=jewish+calendar+2019&unfiltered=1&ie=UTF8&qid=1542896043&rnid=3248858011",
+                "current_url": "https://www.amazon.com/Nice-Jewish-Guys-Wall-Calendar/dp/1523504293/ref=sr_1_2?s=books&ie=UTF8&qid=1542896051&sr=1-2&keywords=jewish+calendar+2019&refinements=p_n_feature_two_browse-bin%3A17928809011",
+                "stay_seconds": 13.276,
+                "time": "2018-11-22T14:14:25Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Nice-Jewish-Guys-Wall-Calendar/dp/1523504293/ref=sr_1_2?s=books&ie=UTF8&qid=1542896051&sr=1-2&keywords=jewish+calendar+2019&refinements=p_n_feature_two_browse-bin%3A17928809011",
+                "current_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "stay_seconds": 18.076,
+                "time": "2018-11-22T14:14:43Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "current_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C3946087d-4126-4e98-8309-84e0a9ec30ec%2C1",
+                "stay_seconds": 0.922,
+                "time": "2018-11-22T14:14:44Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C3946087d-4126-4e98-8309-84e0a9ec30ec%2C1",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=giftcard",
+                "stay_seconds": 36.551,
+                "time": "2018-11-22T14:15:20Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=giftcard",
+                "current_url": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref=nav_cs_gift_cards",
+                "stay_seconds": 8.381,
+                "time": "2018-11-22T14:15:29Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref=nav_cs_gift_cards",
+                "current_url": "https://www.amazon.com/b/ref=s9_acss_bw_cg_gchol17_2a1_w?node=2973106011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=SAAH97QK0T1MWN7WWKXD&pf_rd_t=101&pf_rd_p=2d507c40-99bb-40f1-ad44-15d919fb891b&pf_rd_i=2238192011",
+                "stay_seconds": 6.995,
+                "time": "2018-11-22T14:15:35Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/b/ref=s9_acss_bw_cg_gchol17_2a1_w?node=2973106011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=SAAH97QK0T1MWN7WWKXD&pf_rd_t=101&pf_rd_p=2d507c40-99bb-40f1-ad44-15d919fb891b&pf_rd_i=2238192011",
+                "current_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Balloons/dp/B01FIS88SY/ref=lp_2973106011_1_1?s=gift-cards&ie=UTF8&qid=1542896135&sr=1-1",
+                "stay_seconds": 7.011,
+                "time": "2018-11-22T14:15:43Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Balloons/dp/B01FIS88SY/ref=lp_2973106011_1_1?s=gift-cards&ie=UTF8&qid=1542896135&sr=1-1",
+                "current_url": "https://www.google.de/search?q=how+to+enter+at+chinese+keyboard&oq=how+to+enter+at+chinese+keyboard&aqs=chrome..69i57.19488j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 60.711,
+                "time": "2018-11-22T14:16:43Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=how+to+enter+at+chinese+keyboard&oq=how+to+enter+at+chinese+keyboard&aqs=chrome..69i57.19488j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Balloons/dp/B01FIS88SY/ref=lp_2973106011_1_1?s=gift-cards&ie=UTF8&qid=1542896135&sr=1-1",
+                "stay_seconds": 9.459,
+                "time": "2018-11-22T14:16:53Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Balloons/dp/B01FIS88SY/ref=lp_2973106011_1_1?s=gift-cards&ie=UTF8&qid=1542896135&sr=1-1",
+                "current_url": "https://www.amazon.com/gp/cart/view.html?ref=nav_cart",
+                "stay_seconds": 54.594,
+                "time": "2018-11-22T14:17:47Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/cart/view.html?ref=nav_cart",
+                "current_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Balloons/dp/B01FIS88SY/ref=lp_2973106011_1_1?s=gift-cards&ie=UTF8&qid=1542896135&sr=1-1",
+                "stay_seconds": 11.712,
+                "time": "2018-11-22T14:17:59Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Balloons/dp/B01FIS88SY/ref=lp_2973106011_1_1?s=gift-cards&ie=UTF8&qid=1542896135&sr=1-1",
+                "current_url": "https://www.google.de/search?q=how+to+enter+at+chinese+keyboard&oq=how+to+enter+at+chinese+keyboard&aqs=chrome..69i57.19488j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 11.32,
+                "time": "2018-11-22T14:18:10Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=how+to+enter+at+chinese+keyboard&oq=how+to+enter+at+chinese+keyboard&aqs=chrome..69i57.19488j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.google.de/search?ei=Srr2W_SjN4nVsAHL74zIBA&q=how+to+enter+at+on+keyboard&oq=how+to+enter+at+&gs_l=psy-ab.1.1.35i39j0l6j0i20i263l2j0.92860.95187..97467...3.0..0.251.502.3j0j1......0....1..gws-wiz.......0i71j0i67.ymf9BLLBEwo",
+                "stay_seconds": 11.209,
+                "time": "2018-11-22T14:18:22Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?ei=Srr2W_SjN4nVsAHL74zIBA&q=how+to+enter+at+on+keyboard&oq=how+to+enter+at+&gs_l=psy-ab.1.1.35i39j0l6j0i20i263l2j0.92860.95187..97467...3.0..0.251.502.3j0j1......0....1..gws-wiz.......0i71j0i67.ymf9BLLBEwo",
+                "current_url": "https://www.google.de/search?ei=rbr2W4PLCIybsAHK_YSgDw&q=can%27t+type+%40+symbol&oq=how+to+enter+at+on+keyboard&gs_l=psy-ab.1.0.0i71l8.0.0..19006...0.0..0.0.0.......0......gws-wiz.G800eVp66vc",
+                "stay_seconds": 19.842,
+                "time": "2018-11-22T14:18:41Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?ei=rbr2W4PLCIybsAHK_YSgDw&q=can%27t+type+%40+symbol&oq=how+to+enter+at+on+keyboard&gs_l=psy-ab.1.0.0i71l8.0.0..19006...0.0..0.0.0.......0......gws-wiz.G800eVp66vc",
+                "current_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Balloons/dp/B01FIS88SY/ref=lp_2973106011_1_1?s=gift-cards&ie=UTF8&qid=1542896135&sr=1-1",
+                "stay_seconds": 4.312,
+                "time": "2018-11-22T14:18:46Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Amazon-eGift-Card-Birthday-Balloons/dp/B01FIS88SY/ref=lp_2973106011_1_1?s=gift-cards&ie=UTF8&qid=1542896135&sr=1-1",
+                "current_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=gcui_d_e_atrc_r_d_b_x",
+                "stay_seconds": 19.638,
+                "time": "2018-11-22T14:19:05Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=gcui_d_e_atrc_r_d_b_x",
+                "current_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C6c9862c8-73d0-4803-9225-21341f964113%2C1",
+                "stay_seconds": 1.016,
+                "time": "2018-11-22T14:19:06Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C6c9862c8-73d0-4803-9225-21341f964113%2C1",
+                "current_url": "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0",
+                "stay_seconds": 0.768,
+                "time": "2018-11-22T14:19:07Z"
+            }
+        ]
+    },
+    {
+        "task_id": 3,
+        "clickstream": [
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=seal",
+                "stay_seconds": 6.102,
+                "time": "2018-11-22T14:19:55Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=seal",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=seal+animal&rh=i%3Aaps%2Ck%3Aseal+animal",
+                "stay_seconds": 15.5,
+                "time": "2018-11-22T14:20:11Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=seal+animal&rh=i%3Aaps%2Ck%3Aseal+animal",
+                "current_url": "https://www.amazon.com/s/ref=sr_st_review-rank?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&keywords=seal+animal&rh=i%3Aaps%2Ck%3Aseal+animal&qid=1542896408&sort=review-rank",
+                "stay_seconds": 38.706,
+                "time": "2018-11-22T14:20:49Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_st_review-rank?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&keywords=seal+animal&rh=i%3Aaps%2Ck%3Aseal+animal&qid=1542896408&sort=review-rank",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=seal+animal+stuff&rh=i%3Aaps%2Ck%3Aseal+animal+stuff",
+                "stay_seconds": 13.165,
+                "time": "2018-11-22T14:21:03Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=seal+animal+stuff&rh=i%3Aaps%2Ck%3Aseal+animal+stuff",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=seal+animal+plushie&rh=i%3Aaps%2Ck%3Aseal+animal+plushie",
+                "stay_seconds": 13.039,
+                "time": "2018-11-22T14:21:16Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=seal+animal+plushie&rh=i%3Aaps%2Ck%3Aseal+animal+plushie",
+                "current_url": "https://www.amazon.com/sunyou-Plush-Cute-Seal-Pillow/dp/B01N33DO53/ref=sr_1_2?ie=UTF8&qid=1542896476&sr=8-2&keywords=seal+animal+plushie",
+                "stay_seconds": 14.38,
+                "time": "2018-11-22T14:21:30Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/sunyou-Plush-Cute-Seal-Pillow/dp/B01N33DO53/ref=sr_1_2?ie=UTF8&qid=1542896476&sr=8-2&keywords=seal+animal+plushie",
+                "current_url": "https://www.amazon.com/Wild-Republic-Stuffed-Animal-Inches/dp/B003E6YDQY/ref=sr_1_3?ie=UTF8&qid=1542896476&sr=8-3&keywords=seal+animal+plushie",
+                "stay_seconds": 1.852,
+                "time": "2018-11-22T14:21:32Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Wild-Republic-Stuffed-Animal-Inches/dp/B003E6YDQY/ref=sr_1_3?ie=UTF8&qid=1542896476&sr=8-3&keywords=seal+animal+plushie",
+                "current_url": "https://www.amazon.com/sunyou-Plush-Cute-Seal-Pillow/dp/B01N33DO53/ref=sr_1_2?ie=UTF8&qid=1542896476&sr=8-2&keywords=seal+animal+plushie",
+                "stay_seconds": 11.779,
+                "time": "2018-11-22T14:21:44Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/sunyou-Plush-Cute-Seal-Pillow/dp/B01N33DO53/ref=sr_1_2?ie=UTF8&qid=1542896476&sr=8-2&keywords=seal+animal+plushie",
+                "current_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "stay_seconds": 6.392,
+                "time": "2018-11-22T14:21:50Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "current_url": "https://www.amazon.com/Wild-Republic-Stuffed-Animal-Inches/dp/B003E6YDQY/ref=sr_1_3?ie=UTF8&qid=1542896476&sr=8-3&keywords=seal+animal+plushie",
+                "stay_seconds": 5.964,
+                "time": "2018-11-22T14:21:56Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Wild-Republic-Stuffed-Animal-Inches/dp/B003E6YDQY/ref=sr_1_3?ie=UTF8&qid=1542896476&sr=8-3&keywords=seal+animal+plushie",
+                "current_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "stay_seconds": 8.279,
+                "time": "2018-11-22T14:22:04Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=seal+animal+plushie&rh=i%3Aaps%2Ck%3Aseal+animal+plushie",
+                "stay_seconds": 1.066,
+                "time": "2018-11-22T14:22:05Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=seal+animal+plushie&rh=i%3Aaps%2Ck%3Aseal+animal+plushie",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=kuechenschlacht+buch&rh=i%3Aaps%2Ck%3Akuechenschlacht+buch",
+                "stay_seconds": 9.206,
+                "time": "2018-11-22T14:22:14Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=kuechenschlacht+buch&rh=i%3Aaps%2Ck%3Akuechenschlacht+buch",
+                "current_url": "https://www.amazon.com/gp/search/ref=sr_moz_back?sf=moz&rh=i%3Aaps%2Ck%3Akuechenschlacht+buch&keywords=kuechenschlacht+buch&ie=UTF8&qid=1542896534",
+                "stay_seconds": 12.281,
+                "time": "2018-11-22T14:22:27Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/search/ref=sr_moz_back?sf=moz&rh=i%3Aaps%2Ck%3Akuechenschlacht+buch&keywords=kuechenschlacht+buch&ie=UTF8&qid=1542896534",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=kuechenschlacht&rh=i%3Aaps%2Ck%3Akuechenschlacht",
+                "stay_seconds": 5.738,
+                "time": "2018-11-22T14:22:32Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=kuechenschlacht&rh=i%3Aaps%2Ck%3Akuechenschlacht",
+                "current_url": "https://www.amazon.com/gp/search/ref=sr_moz_back?sf=moz&rh=i%3Aaps%2Ck%3Akuechenschlacht&keywords=kuechenschlacht&ie=UTF8&qid=1542896552",
+                "stay_seconds": 4.179,
+                "time": "2018-11-22T14:22:37Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/search/ref=sr_moz_back?sf=moz&rh=i%3Aaps%2Ck%3Akuechenschlacht&keywords=kuechenschlacht&ie=UTF8&qid=1542896552",
+                "current_url": "https://www.amazon.com/Die-K%C3%BCchenschlacht/dp/3898838811/ref=sr_1_2_twi_har_2?ie=UTF8&qid=1542896556&sr=8-2&keywords=kuechenschlacht",
+                "stay_seconds": 7.515,
+                "time": "2018-11-22T14:22:44Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Die-K%C3%BCchenschlacht/dp/3898838811/ref=sr_1_2_twi_har_2?ie=UTF8&qid=1542896556&sr=8-2&keywords=kuechenschlacht",
+                "current_url": "https://www.google.de/search?q=die+k%C3%BCchenschlacht+buch&oq=Die+K%C3%BCchenschlacht+buch&aqs=chrome.0.0l2.2014j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 12.947,
+                "time": "2018-11-22T14:22:57Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=die+k%C3%BCchenschlacht+buch&oq=Die+K%C3%BCchenschlacht+buch&aqs=chrome.0.0l2.2014j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.amazon.com/Die-K%C3%BCchenschlacht/dp/3898838811/ref=sr_1_2_twi_har_2?ie=UTF8&qid=1542896556&sr=8-2&keywords=kuechenschlacht",
+                "stay_seconds": 5.174,
+                "time": "2018-11-22T14:23:02Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Die-K%C3%BCchenschlacht/dp/3898838811/ref=sr_1_2_twi_har_2?ie=UTF8&qid=1542896556&sr=8-2&keywords=kuechenschlacht",
+                "current_url": "https://www.google.de/search?q=die+k%C3%BCchenschlacht+buch&oq=Die+K%C3%BCchenschlacht+buch&aqs=chrome.0.0l2.2014j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 3.621,
+                "time": "2018-11-22T14:23:06Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=die+k%C3%BCchenschlacht+buch&oq=Die+K%C3%BCchenschlacht+buch&aqs=chrome.0.0l2.2014j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.amazon.com/Die-K%C3%BCchenschlacht/dp/3898838811/ref=sr_1_2_twi_har_2?ie=UTF8&qid=1542896556&sr=8-2&keywords=kuechenschlacht",
+                "stay_seconds": 2.153,
+                "time": "2018-11-22T14:23:08Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Die-K%C3%BCchenschlacht/dp/3898838811/ref=sr_1_2_twi_har_2?ie=UTF8&qid=1542896556&sr=8-2&keywords=kuechenschlacht",
+                "current_url": "https://www.google.de/search?q=die+k%C3%BCchenschlacht+buch&oq=Die+K%C3%BCchenschlacht+buch&aqs=chrome.0.0l2.2014j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 4.33,
+                "time": "2018-11-22T14:23:12Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=die+k%C3%BCchenschlacht+buch&oq=Die+K%C3%BCchenschlacht+buch&aqs=chrome.0.0l2.2014j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.amazon.de/Die-K%C3%BCchenschlacht-Kochbuch-Rezepte-Hobbyk%C3%B6che/dp/3898832201",
+                "stay_seconds": 3.165,
+                "time": "2018-11-22T14:23:16Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.de/Die-K%C3%BCchenschlacht-Kochbuch-Rezepte-Hobbyk%C3%B6che/dp/3898832201",
+                "current_url": "https://www.google.de/search?q=die+k%C3%BCchenschlacht+buch&oq=Die+K%C3%BCchenschlacht+buch&aqs=chrome.0.0l2.2014j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 4.88,
+                "time": "2018-11-22T14:23:20Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=die+k%C3%BCchenschlacht+buch&oq=Die+K%C3%BCchenschlacht+buch&aqs=chrome.0.0l2.2014j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.amazon.de/Die-K%C3%BCchenschlacht-Rezepte-Gewinner/dp/3898832686",
+                "stay_seconds": 3.145,
+                "time": "2018-11-22T14:23:24Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.de/Die-K%C3%BCchenschlacht-Rezepte-Gewinner/dp/3898832686",
+                "current_url": "https://www.google.de/search?q=die+k%C3%BCchenschlacht+buch&oq=Die+K%C3%BCchenschlacht+buch&aqs=chrome.0.0l2.2014j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 7.461,
+                "time": "2018-11-22T14:23:31Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=die+k%C3%BCchenschlacht+buch&oq=Die+K%C3%BCchenschlacht+buch&aqs=chrome.0.0l2.2014j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.google.de/search?ei=wLv2W8asLcuMsgHV0LvYDA&q=die+k%C3%BCchenschlacht+buch+2018&oq=die+k%C3%BCchenschlacht+buch+2018&gs_l=psy-ab.3..33i22i29i30l2.1151.3213..3559...0.0..0.102.449.4j1......0....1..gws-wiz.......0i22i30.5bN2RVuHFWU",
+                "stay_seconds": 4.571,
+                "time": "2018-11-22T14:23:36Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?ei=wLv2W8asLcuMsgHV0LvYDA&q=die+k%C3%BCchenschlacht+buch+2018&oq=die+k%C3%BCchenschlacht+buch+2018&gs_l=psy-ab.3..33i22i29i30l2.1151.3213..3559...0.0..0.102.449.4j1......0....1..gws-wiz.......0i22i30.5bN2RVuHFWU",
+                "current_url": "https://www.amazon.de/Die-K%C3%BCchenschlacht-Kochbuch-Rezepte-Hobbyk%C3%B6che/dp/3898832201",
+                "stay_seconds": 6.767,
+                "time": "2018-11-22T14:23:42Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.de/Die-K%C3%BCchenschlacht-Kochbuch-Rezepte-Hobbyk%C3%B6che/dp/3898832201",
+                "current_url": "https://www.amazon.de/Die-K%C3%BCchenschlacht-besten-Rezepte/dp/3898838811/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=Q257XZTY4GE6WX12DR07",
+                "stay_seconds": 4.35,
+                "time": "2018-11-22T14:23:47Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.de/Die-K%C3%BCchenschlacht-besten-Rezepte/dp/3898838811/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=Q257XZTY4GE6WX12DR07",
+                "current_url": "https://www.amazon.com/Die-K%C3%BCchenschlacht/dp/3898838811/ref=sr_1_2_twi_har_2?ie=UTF8&qid=1542896556&sr=8-2&keywords=kuechenschlacht",
+                "stay_seconds": 44.814,
+                "time": "2018-11-22T14:24:32Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Die-K%C3%BCchenschlacht/dp/3898838811/ref=sr_1_2_twi_har_2?ie=UTF8&qid=1542896556&sr=8-2&keywords=kuechenschlacht",
+                "current_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "stay_seconds": 4.397,
+                "time": "2018-11-22T14:24:36Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "current_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C620db46e-ae93-49d4-84c1-c4a0bf0cb0e5%2C1",
+                "stay_seconds": 1.335,
+                "time": "2018-11-22T14:24:37Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C620db46e-ae93-49d4-84c1-c4a0bf0cb0e5%2C1",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=katapult+magazin",
+                "stay_seconds": 17.009,
+                "time": "2018-11-22T14:24:54Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=katapult+magazin",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=book+seals&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals",
+                "stay_seconds": 25.001,
+                "time": "2018-11-22T14:25:19Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=book+seals&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=book+seals+animal&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal",
+                "stay_seconds": 7.019,
+                "time": "2018-11-22T14:25:26Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=book+seals+animal&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal",
+                "current_url": "https://www.amazon.com/Seal-Coloring-Book-Beautiful-Grown-up/dp/1717195679/ref=sr_1_1?s=books&ie=UTF8&qid=1542896726&sr=1-1&keywords=book+seals+animal",
+                "stay_seconds": 7.503,
+                "time": "2018-11-22T14:25:34Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Seal-Coloring-Book-Beautiful-Grown-up/dp/1717195679/ref=sr_1_1?s=books&ie=UTF8&qid=1542896726&sr=1-1&keywords=book+seals+animal",
+                "current_url": "https://www.amazon.com/Seal-Called-Andre-Goodridge/dp/1608932958/ref=sr_1_2?s=books&ie=UTF8&qid=1542896726&sr=1-2&keywords=book+seals+animal",
+                "stay_seconds": 2.003,
+                "time": "2018-11-22T14:25:36Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Seal-Called-Andre-Goodridge/dp/1608932958/ref=sr_1_2?s=books&ie=UTF8&qid=1542896726&sr=1-2&keywords=book+seals+animal",
+                "current_url": "https://www.amazon.com/Seal-Coloring-Book-Beautiful-Grown-up/dp/1717195679/ref=sr_1_1?s=books&ie=UTF8&qid=1542896726&sr=1-1&keywords=book+seals+animal",
+                "stay_seconds": 0.58,
+                "time": "2018-11-22T14:25:36Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Seal-Coloring-Book-Beautiful-Grown-up/dp/1717195679/ref=sr_1_1?s=books&ie=UTF8&qid=1542896726&sr=1-1&keywords=book+seals+animal",
+                "current_url": "https://www.amazon.com/Seal-Called-Andre-Goodridge/dp/1608932958/ref=sr_1_2?s=books&ie=UTF8&qid=1542896726&sr=1-2&keywords=book+seals+animal",
+                "stay_seconds": 8.226,
+                "time": "2018-11-22T14:25:45Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Seal-Called-Andre-Goodridge/dp/1608932958/ref=sr_1_2?s=books&ie=UTF8&qid=1542896726&sr=1-2&keywords=book+seals+animal",
+                "current_url": "https://www.google.de/search?q=A+Seal+Called+Andre&oq=A+Seal+Called+Andre&aqs=chrome..69i57j69i60j69i64&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 16.072,
+                "time": "2018-11-22T14:26:01Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=A+Seal+Called+Andre&oq=A+Seal+Called+Andre&aqs=chrome..69i57j69i60j69i64&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://en.wikipedia.org/wiki/Andre_the_Seal",
+                "stay_seconds": 2.279,
+                "time": "2018-11-22T14:26:03Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://en.wikipedia.org/wiki/Andre_the_Seal",
+                "current_url": "https://en.wikipedia.org/wiki/Arborist",
+                "stay_seconds": 10.182,
+                "time": "2018-11-22T14:26:13Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://en.wikipedia.org/wiki/Arborist",
+                "current_url": "https://en.wikipedia.org/wiki/Andre_the_Seal",
+                "stay_seconds": 5.149,
+                "time": "2018-11-22T14:26:18Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://en.wikipedia.org/wiki/Andre_the_Seal",
+                "current_url": "https://www.google.de/search?q=A+Seal+Called+Andre&oq=A+Seal+Called+Andre&aqs=chrome..69i57j69i60j69i64&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 26.03,
+                "time": "2018-11-22T14:26:44Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=A+Seal+Called+Andre&oq=A+Seal+Called+Andre&aqs=chrome..69i57j69i60j69i64&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.google.de/search?q=A+Seal+Called+Andre&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjoy8aqmujeAhUHAcAKHUNoDRQQ_AUIDigB&biw=1877&bih=1018",
+                "stay_seconds": 8.568,
+                "time": "2018-11-22T14:26:53Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=A+Seal+Called+Andre&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjoy8aqmujeAhUHAcAKHUNoDRQQ_AUIDigB&biw=1877&bih=1018",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=book+seals+animal&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal",
+                "stay_seconds": 4.948,
+                "time": "2018-11-22T14:26:58Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=book+seals+animal&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal",
+                "current_url": "https://www.amazon.com/My-Favorite-Animal-Victoria-Marcos/dp/1532405936/ref=sr_1_5?s=books&ie=UTF8&qid=1542896726&sr=1-5&keywords=book+seals+animal",
+                "stay_seconds": 13.541,
+                "time": "2018-11-22T14:27:11Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/My-Favorite-Animal-Victoria-Marcos/dp/1532405936/ref=sr_1_5?s=books&ie=UTF8&qid=1542896726&sr=1-5&keywords=book+seals+animal",
+                "current_url": "https://www.amazon.com/See-What-Seal-Read-Wonder/dp/0763676497/ref=sr_1_7?s=books&ie=UTF8&qid=1542896726&sr=1-7&keywords=book+seals+animal",
+                "stay_seconds": 4.722,
+                "time": "2018-11-22T14:27:16Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/See-What-Seal-Read-Wonder/dp/0763676497/ref=sr_1_7?s=books&ie=UTF8&qid=1542896726&sr=1-7&keywords=book+seals+animal",
+                "current_url": "https://www.amazon.com/My-Favorite-Animal-Victoria-Marcos/dp/1532405936/ref=sr_1_5?s=books&ie=UTF8&qid=1542896726&sr=1-5&keywords=book+seals+animal",
+                "stay_seconds": 3.82,
+                "time": "2018-11-22T14:27:20Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/My-Favorite-Animal-Victoria-Marcos/dp/1532405936/ref=sr_1_5?s=books&ie=UTF8&qid=1542896726&sr=1-5&keywords=book+seals+animal",
+                "current_url": "https://www.amazon.com/See-What-Seal-Read-Wonder/dp/0763676497/ref=sr_1_7?s=books&ie=UTF8&qid=1542896726&sr=1-7&keywords=book+seals+animal",
+                "stay_seconds": 4.845,
+                "time": "2018-11-22T14:27:25Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/See-What-Seal-Read-Wonder/dp/0763676497/ref=sr_1_7?s=books&ie=UTF8&qid=1542896726&sr=1-7&keywords=book+seals+animal",
+                "current_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "stay_seconds": 44.377,
+                "time": "2018-11-22T14:28:09Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "current_url": "https://www.amazon.com/My-Favorite-Animal-Victoria-Marcos/dp/1532405936/ref=sr_1_5?s=books&ie=UTF8&qid=1542896726&sr=1-5&keywords=book+seals+animal",
+                "stay_seconds": 0.84,
+                "time": "2018-11-22T14:28:10Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/My-Favorite-Animal-Victoria-Marcos/dp/1532405936/ref=sr_1_5?s=books&ie=UTF8&qid=1542896726&sr=1-5&keywords=book+seals+animal",
+                "current_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=book+seals+animal&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal",
+                "stay_seconds": 4.471,
+                "time": "2018-11-22T14:28:14Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks-intl-ship&field-keywords=book+seals+animal&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal",
+                "current_url": "https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&page=2&keywords=book+seals+animal&ie=UTF8&qid=1542896726",
+                "stay_seconds": 4.11,
+                "time": "2018-11-22T14:28:19Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&page=2&keywords=book+seals+animal&ie=UTF8&qid=1542896726",
+                "current_url": "https://www.amazon.com/s/ref=sr_st_review-rank?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&keywords=book+seals+animal&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&qid=1542896726&sort=review-rank",
+                "stay_seconds": 8.435,
+                "time": "2018-11-22T14:28:27Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_st_review-rank?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&keywords=book+seals+animal&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&qid=1542896726&sort=review-rank",
+                "current_url": "https://www.amazon.com/s/ref=sr_st_date-desc-rank?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&keywords=book+seals+animal&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&qid=1542896903&sort=date-desc-rank",
+                "stay_seconds": 12.279,
+                "time": "2018-11-22T14:28:39Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_st_date-desc-rank?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&keywords=book+seals+animal&rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&qid=1542896903&sort=date-desc-rank",
+                "current_url": "https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&page=2&sort=date-desc-rank&keywords=book+seals+animal&ie=UTF8&qid=1542896918",
+                "stay_seconds": 13.208,
+                "time": "2018-11-22T14:28:53Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&page=2&sort=date-desc-rank&keywords=book+seals+animal&ie=UTF8&qid=1542896918",
+                "current_url": "https://www.amazon.com/Things-About-Seals-other-important/dp/1731421753/ref=sr_1_22?s=books&ie=UTF8&qid=1542896932&sr=1-22&keywords=book+seals+animal",
+                "stay_seconds": 17.629,
+                "time": "2018-11-22T14:29:10Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Things-About-Seals-other-important/dp/1731421753/ref=sr_1_22?s=books&ie=UTF8&qid=1542896932&sr=1-22&keywords=book+seals+animal",
+                "current_url": "https://www.amazon.com/Things-About-Seals-other-important/dp/1731421753/ref=sr_1_22?s=books&ie=UTF8&qid=1542896932&sr=1-22&keywords=book+seals+animal",
+                "stay_seconds": 0.176,
+                "time": "2018-11-22T14:29:10Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/Things-About-Seals-other-important/dp/1731421753/ref=sr_1_22?s=books&ie=UTF8&qid=1542896932&sr=1-22&keywords=book+seals+animal",
+                "current_url": "https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&page=2&sort=date-desc-rank&keywords=book+seals+animal&ie=UTF8&qid=1542896918",
+                "stay_seconds": 14.537,
+                "time": "2018-11-22T14:29:25Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_pg_2?rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&page=2&sort=date-desc-rank&keywords=book+seals+animal&ie=UTF8&qid=1542896918",
+                "current_url": "https://www.amazon.com/s/ref=sr_pg_3?rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&page=3&sort=date-desc-rank&keywords=book+seals+animal&ie=UTF8&qid=1542896932",
+                "stay_seconds": 15.056,
+                "time": "2018-11-22T14:29:40Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/s/ref=sr_pg_3?rh=i%3Astripbooks-intl-ship%2Ck%3Abook+seals+animal&page=3&sort=date-desc-rank&keywords=book+seals+animal&ie=UTF8&qid=1542896932",
+                "current_url": "https://www.amazon.com/dp/1432940090/ref=sxbs_sxwds-stppvp_1?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=d45777d6-4c64-4117-8332-1659db52e64f&pd_rd_wg=4nT0X&pf_rd_r=1QJS8JZMF26AEW47PCCX&pf_rd_s=desktop-sx-bottom-slot&pf_rd_t=301&pd_rd_i=1432940090&pd_rd_w=ZCdb2&pf_rd_i=book+seals+animal&pd_rd_r=b5c1b652-ac97-4873-925a-d99f5b8497ea&ie=UTF8&qid=1542896932&sr=1",
+                "stay_seconds": 0.29,
+                "time": "2018-11-22T14:29:40Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/dp/1432940090/ref=sxbs_sxwds-stppvp_1?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=d45777d6-4c64-4117-8332-1659db52e64f&pd_rd_wg=4nT0X&pf_rd_r=1QJS8JZMF26AEW47PCCX&pf_rd_s=desktop-sx-bottom-slot&pf_rd_t=301&pd_rd_i=1432940090&pd_rd_w=ZCdb2&pf_rd_i=book+seals+animal&pd_rd_r=b5c1b652-ac97-4873-925a-d99f5b8497ea&ie=UTF8&qid=1542896932&sr=1",
+                "current_url": "https://www.amazon.com/dp/1432940090/ref=sxbs_sxwds-stppvp_1?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=d45777d6-4c64-4117-8332-1659db52e64f&pd_rd_wg=4nT0X&pf_rd_r=1QJS8JZMF26AEW47PCCX&pf_rd_s=desktop-sx-bottom-slot&pf_rd_t=301&pd_rd_i=1432940090&pd_rd_w=ZCdb2&pf_rd_i=book+seals+animal&pd_rd_r=b5c1b652-ac97-4873-925a-d99f5b8497ea&ie=UTF8&qid=1542896932&sr=1",
+                "stay_seconds": 1.12,
+                "time": "2018-11-22T14:29:41Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/dp/1432940090/ref=sxbs_sxwds-stppvp_1?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=d45777d6-4c64-4117-8332-1659db52e64f&pd_rd_wg=4nT0X&pf_rd_r=1QJS8JZMF26AEW47PCCX&pf_rd_s=desktop-sx-bottom-slot&pf_rd_t=301&pd_rd_i=1432940090&pd_rd_w=ZCdb2&pf_rd_i=book+seals+animal&pd_rd_r=b5c1b652-ac97-4873-925a-d99f5b8497ea&ie=UTF8&qid=1542896932&sr=1",
+                "current_url": "https://www.amazon.com/PLAYMOBIL%C2%AE-Seal-Pups-Building-Set/dp/B01LXGNWGR/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=B01LXGNWGR&pd_rd_r=0b905015-ee63-11e8-ac33-170c9d662742&pd_rd_w=OzSJf&pd_rd_wg=m6YCC&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=TZBW4B8XTA1SQWMNTC03&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TZBW4B8XTA1SQWMNTC03",
+                "stay_seconds": 14.537,
+                "time": "2018-11-22T14:29:56Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/PLAYMOBIL%C2%AE-Seal-Pups-Building-Set/dp/B01LXGNWGR/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=B01LXGNWGR&pd_rd_r=0b905015-ee63-11e8-ac33-170c9d662742&pd_rd_w=OzSJf&pd_rd_wg=m6YCC&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=TZBW4B8XTA1SQWMNTC03&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=TZBW4B8XTA1SQWMNTC03",
+                "current_url": "https://www.amazon.com/dp/1432940090/ref=sxbs_sxwds-stppvp_1?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=d45777d6-4c64-4117-8332-1659db52e64f&pd_rd_wg=4nT0X&pf_rd_r=1QJS8JZMF26AEW47PCCX&pf_rd_s=desktop-sx-bottom-slot&pf_rd_t=301&pd_rd_i=1432940090&pd_rd_w=ZCdb2&pf_rd_i=book+seals+animal&pd_rd_r=b5c1b652-ac97-4873-925a-d99f5b8497ea&ie=UTF8&qid=1542896932&sr=1",
+                "stay_seconds": 5.286,
+                "time": "2018-11-22T14:30:01Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/dp/1432940090/ref=sxbs_sxwds-stppvp_1?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=d45777d6-4c64-4117-8332-1659db52e64f&pd_rd_wg=4nT0X&pf_rd_r=1QJS8JZMF26AEW47PCCX&pf_rd_s=desktop-sx-bottom-slot&pf_rd_t=301&pd_rd_i=1432940090&pd_rd_w=ZCdb2&pf_rd_i=book+seals+animal&pd_rd_r=b5c1b652-ac97-4873-925a-d99f5b8497ea&ie=UTF8&qid=1542896932&sr=1",
+                "current_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "stay_seconds": 21.199,
+                "time": "2018-11-22T14:30:22Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance",
+                "current_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C122ed50f-76ad-4cf9-b1a7-b648aaebf95c%2C1",
+                "stay_seconds": 1.414,
+                "time": "2018-11-22T14:30:24Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C122ed50f-76ad-4cf9-b1a7-b648aaebf95c%2C1",
+                "current_url": "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0",
+                "stay_seconds": 0.329,
+                "time": "2018-11-22T14:30:24Z"
+            }
+        ]
+    },
+    {
+        "task_id": 4,
+        "clickstream": [
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/",
+                "current_url": "https://medium.com/s/story/a-guide-to-overcoming-fobo-the-fear-of-better-options-9a3f4655bfae",
+                "stay_seconds": 41.8,
+                "time": "2018-11-22T14:31:32Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/s/story/a-guide-to-overcoming-fobo-the-fear-of-better-options-9a3f4655bfae",
+                "current_url": "https://medium.com/m/callback/google",
+                "stay_seconds": 6.227,
+                "time": "2018-11-22T14:31:38Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/m/callback/google",
+                "current_url": "https://medium.com/s/story/a-guide-to-overcoming-fobo-the-fear-of-better-options-9a3f4655bfae",
+                "stay_seconds": 2.793,
+                "time": "2018-11-22T14:31:41Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/s/story/a-guide-to-overcoming-fobo-the-fear-of-better-options-9a3f4655bfae",
+                "current_url": "https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc",
+                "stay_seconds": 21.472,
+                "time": "2018-11-22T14:32:03Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc",
+                "current_url": "https://medium.com/",
+                "stay_seconds": 4.663,
+                "time": "2018-11-22T14:32:07Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/",
+                "current_url": "https://medium.com/",
+                "stay_seconds": 58.486,
+                "time": "2018-11-22T14:33:06Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/",
+                "current_url": "https://medium.com/search?q=tokyo",
+                "stay_seconds": 59.666,
+                "time": "2018-11-22T14:34:05Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=tokyo",
+                "current_url": "https://medium.com/search?q=tokyo%20travel",
+                "stay_seconds": 14.097,
+                "time": "2018-11-22T14:34:20Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=tokyo%20travel",
+                "current_url": "https://medium.com/@ianlynam/tokyo-travel-destinations-c79e3874095f",
+                "stay_seconds": 5.316,
+                "time": "2018-11-22T14:34:25Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@ianlynam/tokyo-travel-destinations-c79e3874095f",
+                "current_url": "https://medium.com/search?q=kyoto%20travel",
+                "stay_seconds": 103.44,
+                "time": "2018-11-22T14:36:08Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=kyoto%20travel",
+                "current_url": "https://jw-webmagazine.com/kyoto-travel-guide-92104fd2b1b?source=search_post---------0&gi=545e7ae54ff6",
+                "stay_seconds": 2.634,
+                "time": "2018-11-22T14:36:11Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://jw-webmagazine.com/kyoto-travel-guide-92104fd2b1b?source=search_post---------0&gi=545e7ae54ff6",
+                "current_url": "https://jw-webmagazine.com/kyoto-travel-guide-92104fd2b1b",
+                "stay_seconds": 71.776,
+                "time": "2018-11-22T14:37:23Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://jw-webmagazine.com/kyoto-travel-guide-92104fd2b1b",
+                "current_url": "https://jw-webmagazine.com/osaka-travel-guide-b8df290db0c4",
+                "stay_seconds": 30.364,
+                "time": "2018-11-22T14:37:53Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://jw-webmagazine.com/osaka-travel-guide-b8df290db0c4",
+                "current_url": "https://medium.com/",
+                "stay_seconds": 107.225,
+                "time": "2018-11-22T14:39:40Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/",
+                "current_url": "https://www.google.de/search?q=secondarz+citz&oq=secondarz+citz&aqs=chrome..69i57j0l5.5030j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 9.681,
+                "time": "2018-11-22T14:39:50Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=secondarz+citz&oq=secondarz+citz&aqs=chrome..69i57j0l5.5030j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://en.wikipedia.org/wiki/Secondary_city",
+                "stay_seconds": 4.26,
+                "time": "2018-11-22T14:39:54Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://en.wikipedia.org/wiki/Secondary_city",
+                "current_url": "https://medium.com/",
+                "stay_seconds": 6.501,
+                "time": "2018-11-22T14:40:01Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/",
+                "current_url": "https://medium.com/search?q=china%20one%20week",
+                "stay_seconds": 17.194,
+                "time": "2018-11-22T14:40:18Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=china%20one%20week",
+                "current_url": "https://medium.com/tag/travel",
+                "stay_seconds": 8.676,
+                "time": "2018-11-22T14:40:27Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/tag/travel",
+                "current_url": "https://medium.com/@TheTraveler/one-week-in-cf952c67599d?source=search_post---------2",
+                "stay_seconds": 21.081,
+                "time": "2018-11-22T14:40:48Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@TheTraveler/one-week-in-cf952c67599d?source=search_post---------2",
+                "current_url": "https://medium.com/search?q=one%20week%20china%20travel",
+                "stay_seconds": 9.756,
+                "time": "2018-11-22T14:40:57Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=one%20week%20china%20travel",
+                "current_url": "https://medium.com/@dreamsinheels/5-must-see-cities-to-visit-in-china-d6fba41019",
+                "stay_seconds": 45.703,
+                "time": "2018-11-22T14:41:43Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@dreamsinheels/5-must-see-cities-to-visit-in-china-d6fba41019",
+                "current_url": "http://dreamsinheels.com/eastern-adventure-tranquility-5-must-see-cities-visit-china/",
+                "stay_seconds": 31.478,
+                "time": "2018-11-22T14:42:15Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "http://dreamsinheels.com/eastern-adventure-tranquility-5-must-see-cities-visit-china/",
+                "current_url": "https://medium.com/@dreamsinheels/5-must-see-cities-to-visit-in-china-d6fba41019",
+                "stay_seconds": 12.214,
+                "time": "2018-11-22T14:42:27Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@dreamsinheels/5-must-see-cities-to-visit-in-china-d6fba41019",
+                "current_url": "https://medium.com/search?q=must%20visit%20china%20cities",
+                "stay_seconds": 22.628,
+                "time": "2018-11-22T14:42:49Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=must%20visit%20china%20cities",
+                "current_url": "https://medium.com/@redearthtours/toureverything-you-should-know-before-booking-your-trip-to-china-d7f170f83a80?source=search_post---------1",
+                "stay_seconds": 12.54,
+                "time": "2018-11-22T14:43:02Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@redearthtours/toureverything-you-should-know-before-booking-your-trip-to-china-d7f170f83a80?source=search_post---------1",
+                "current_url": "https://medium.com/@BiggieTips/10-must-visit-sights-in-china-7cbb12e269e6?source=search_post---------3",
+                "stay_seconds": 3.093,
+                "time": "2018-11-22T14:43:05Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@BiggieTips/10-must-visit-sights-in-china-7cbb12e269e6?source=search_post---------3",
+                "current_url": "https://medium.com/search?q=must%20visit%20china%20",
+                "stay_seconds": 6.3,
+                "time": "2018-11-22T14:43:11Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=must%20visit%20china%20",
+                "current_url": "https://medium.com/search?q=must%20visit%20china%20",
+                "stay_seconds": 4.631,
+                "time": "2018-11-22T14:43:16Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=must%20visit%20china%20",
+                "current_url": "https://medium.com/@troopel/must-visit-red-beach-in-panjin-china-280de77fb3ea",
+                "stay_seconds": 10.148,
+                "time": "2018-11-22T14:43:26Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@troopel/must-visit-red-beach-in-panjin-china-280de77fb3ea",
+                "current_url": "https://medium.com/@annaroberts_72406/red-beach-has-been-identified-on-the-location-of-chinas-northernmost-coast-bfbae4a1302",
+                "stay_seconds": 14.21,
+                "time": "2018-11-22T14:43:40Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@annaroberts_72406/red-beach-has-been-identified-on-the-location-of-chinas-northernmost-coast-bfbae4a1302",
+                "current_url": "https://www.google.de/search?q=red+beach+china&oq=red+beach+china&aqs=chrome..69i57j69i60l3j0l2.2840j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 18.159,
+                "time": "2018-11-22T14:43:59Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=red+beach+china&oq=red+beach+china&aqs=chrome..69i57j69i60l3j0l2.2840j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://en.wikipedia.org/wiki/Red_Beach_(Panjin)",
+                "stay_seconds": 8.0,
+                "time": "2018-11-22T14:44:07Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://en.wikipedia.org/wiki/Red_Beach_(Panjin)",
+                "current_url": "https://medium.com/@annaroberts_72406/red-beach-has-been-identified-on-the-location-of-chinas-northernmost-coast-bfbae4a1302",
+                "stay_seconds": 7.526,
+                "time": "2018-11-22T14:44:14Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@annaroberts_72406/red-beach-has-been-identified-on-the-location-of-chinas-northernmost-coast-bfbae4a1302",
+                "current_url": "http://dreamsinheels.com/eastern-adventure-tranquility-5-must-see-cities-visit-china/",
+                "stay_seconds": 15.711,
+                "time": "2018-11-22T14:44:30Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "http://dreamsinheels.com/eastern-adventure-tranquility-5-must-see-cities-visit-china/",
+                "current_url": "https://medium.com/search?q=unknown%20cities%20china",
+                "stay_seconds": 13.023,
+                "time": "2018-11-22T14:44:43Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=unknown%20cities%20china",
+                "current_url": "https://medium.com/search?q=nanjing",
+                "stay_seconds": 26.702,
+                "time": "2018-11-22T14:45:10Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=nanjing",
+                "current_url": "https://medium.com/shanghaiist/nanjing-woman-surprised-to-find-her-iphone-x-can-be-unlocked-by-her-friends-face-d63ae8e40652?source=search_post---------0",
+                "stay_seconds": 0.611,
+                "time": "2018-11-22T14:45:10Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/shanghaiist/nanjing-woman-surprised-to-find-her-iphone-x-can-be-unlocked-by-her-friends-face-d63ae8e40652?source=search_post---------0",
+                "current_url": "https://medium.com/@naeros/a-live-in-nanjing-165e37225406",
+                "stay_seconds": 10.394,
+                "time": "2018-11-22T14:45:21Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@naeros/a-live-in-nanjing-165e37225406",
+                "current_url": "https://medium.com/shanghaiist/nanjing-woman-surprised-to-find-her-iphone-x-can-be-unlocked-by-her-friends-face-d63ae8e40652",
+                "stay_seconds": 4.579,
+                "time": "2018-11-22T14:45:25Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/shanghaiist/nanjing-woman-surprised-to-find-her-iphone-x-can-be-unlocked-by-her-friends-face-d63ae8e40652",
+                "current_url": "https://medium.com/@naeros/a-live-in-nanjing-165e37225406",
+                "stay_seconds": 34.131,
+                "time": "2018-11-22T14:45:59Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@naeros/a-live-in-nanjing-165e37225406",
+                "current_url": "http://dreamsinheels.com/eastern-adventure-tranquility-5-must-see-cities-visit-china/",
+                "stay_seconds": 1.712,
+                "time": "2018-11-22T14:46:01Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "http://dreamsinheels.com/eastern-adventure-tranquility-5-must-see-cities-visit-china/",
+                "current_url": "https://medium.com/@naeros/a-live-in-nanjing-165e37225406",
+                "stay_seconds": 9.423,
+                "time": "2018-11-22T14:46:10Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@naeros/a-live-in-nanjing-165e37225406",
+                "current_url": "https://medium.com/whenin/whenin-hangzhou-suzhou-xitang-6b3b96d18039",
+                "stay_seconds": 11.619,
+                "time": "2018-11-22T14:46:22Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/whenin/whenin-hangzhou-suzhou-xitang-6b3b96d18039",
+                "current_url": "http://dreamsinheels.com/eastern-adventure-tranquility-5-must-see-cities-visit-china/",
+                "stay_seconds": 55.595,
+                "time": "2018-11-22T14:47:18Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "http://dreamsinheels.com/eastern-adventure-tranquility-5-must-see-cities-visit-china/",
+                "current_url": "https://medium.com/@redearthtours/toureverything-you-should-know-before-booking-your-trip-to-china-d7f170f83a80",
+                "stay_seconds": 1.443,
+                "time": "2018-11-22T14:47:19Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@redearthtours/toureverything-you-should-know-before-booking-your-trip-to-china-d7f170f83a80",
+                "current_url": "https://medium.com/@BiggieTips/10-must-visit-sights-in-china-7cbb12e269e6",
+                "stay_seconds": 5.511,
+                "time": "2018-11-22T14:47:25Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@BiggieTips/10-must-visit-sights-in-china-7cbb12e269e6",
+                "current_url": "https://medium.com/@TheTraveler/one-week-in-cf952c67599d",
+                "stay_seconds": 10.842,
+                "time": "2018-11-22T14:47:35Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@TheTraveler/one-week-in-cf952c67599d",
+                "current_url": "https://en.wikipedia.org/wiki/Red_Beach_(Panjin)",
+                "stay_seconds": 3.929,
+                "time": "2018-11-22T14:47:39Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://en.wikipedia.org/wiki/Red_Beach_(Panjin)",
+                "current_url": "https://medium.com/whenin/whenin-hangzhou-suzhou-xitang-6b3b96d18039",
+                "stay_seconds": 13.973,
+                "time": "2018-11-22T14:47:53Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/whenin/whenin-hangzhou-suzhou-xitang-6b3b96d18039",
+                "current_url": "https://www.google.de/search?q=hangzhou&oq=Hangzhou&aqs=chrome.0.0j69i60j69i65l2j69i60j0.534j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 18.182,
+                "time": "2018-11-22T14:48:11Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=hangzhou&oq=Hangzhou&aqs=chrome.0.0j69i60j69i65l2j69i60j0.534j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://en.wikipedia.org/wiki/Hangzhou",
+                "stay_seconds": 17.335,
+                "time": "2018-11-22T14:48:29Z"
+            }
+        ]
+    },
+    {
+        "task_id": 5,
+        "clickstream": [
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/",
+                "current_url": "https://www.google.de/search?q=medium+com&oq=medium+com&aqs=chrome..69i57j69i65l2j0j69i60l2.2472j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 5.119,
+                "time": "2018-11-22T14:49:13Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=medium+com&oq=medium+com&aqs=chrome..69i57j69i65l2j0j69i60l2.2472j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://en.wikipedia.org/wiki/Medium_(website)",
+                "stay_seconds": 2.279,
+                "time": "2018-11-22T14:49:16Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://en.wikipedia.org/wiki/Medium_(website)",
+                "current_url": "https://medium.com/",
+                "stay_seconds": 71.456,
+                "time": "2018-11-22T14:50:27Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/",
+                "current_url": "https://medium.com/search?q=seals",
+                "stay_seconds": 18.33,
+                "time": "2018-11-22T14:50:46Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=seals",
+                "current_url": "https://medium.com/@JCsEZspeak/how-humans-are-evolving-into-harp-seals-b4c0409360f8?source=search_post",
+                "stay_seconds": 25.682,
+                "time": "2018-11-22T14:51:11Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@JCsEZspeak/how-humans-are-evolving-into-harp-seals-b4c0409360f8?source=search_post",
+                "current_url": "https://medium.com/@jennythaoho/a-dead-seals-story-49c01122b0c9",
+                "stay_seconds": 4.151,
+                "time": "2018-11-22T14:51:15Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@jennythaoho/a-dead-seals-story-49c01122b0c9",
+                "current_url": "https://www.google.de/search?q=Binh+Thuan&oq=Binh+Thuan&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 56.47,
+                "time": "2018-11-22T14:52:12Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=Binh+Thuan&oq=Binh+Thuan&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.google.de/search?ei=msL2W_LnPI_4gQbWvr-4Dg&q=Binh+Thuan+seal&oq=Binh+Thuan+seal&gs_l=psy-ab.3..0i22i30j0i22i10i30.853.1603..1844...0.0..0.84.362.5......0....1..gws-wiz.......0.Qs3AlDH5lT4",
+                "stay_seconds": 2.918,
+                "time": "2018-11-22T14:52:15Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?ei=msL2W_LnPI_4gQbWvr-4Dg&q=Binh+Thuan+seal&oq=Binh+Thuan+seal&gs_l=psy-ab.3..0i22i30j0i22i10i30.853.1603..1844...0.0..0.84.362.5......0....1..gws-wiz.......0.Qs3AlDH5lT4",
+                "current_url": "https://saigoneer.com/vietnam-news/9000-binh-thuan-s-beloved-seal-found-beaten-to-death-on-local-beach",
+                "stay_seconds": 9.613,
+                "time": "2018-11-22T14:52:24Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://saigoneer.com/vietnam-news/9000-binh-thuan-s-beloved-seal-found-beaten-to-death-on-local-beach",
+                "current_url": "https://saigoneer.com/vietnam-news/9000-binh-thuan-s-beloved-seal-found-beaten-to-death-on-local-beach",
+                "stay_seconds": 16.368,
+                "time": "2018-11-22T14:52:41Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://saigoneer.com/vietnam-news/9000-binh-thuan-s-beloved-seal-found-beaten-to-death-on-local-beach",
+                "current_url": "https://www.google.de/search?q=culprit&oq=culprit&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 37.671,
+                "time": "2018-11-22T14:53:18Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=culprit&oq=culprit&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://saigoneer.com/vietnam-news/9000-binh-thuan-s-beloved-seal-found-beaten-to-death-on-local-beach",
+                "stay_seconds": 0.164,
+                "time": "2018-11-22T14:53:19Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://saigoneer.com/vietnam-news/9000-binh-thuan-s-beloved-seal-found-beaten-to-death-on-local-beach",
+                "current_url": "https://www.google.de/search?q=culprit&oq=culprit&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 3.459,
+                "time": "2018-11-22T14:53:22Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=culprit&oq=culprit&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://medium.com/@JCsEZspeak/how-humans-are-evolving-into-harp-seals-b4c0409360f8",
+                "stay_seconds": 2.144,
+                "time": "2018-11-22T14:53:24Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@JCsEZspeak/how-humans-are-evolving-into-harp-seals-b4c0409360f8",
+                "current_url": "https://www.google.de/search?q=jeopardize&oq=jeopardize&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 40.623,
+                "time": "2018-11-22T14:54:05Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=jeopardize&oq=jeopardize&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.google.de/search?ei=DMP2W5-nKpKtgQawyq64Bw&q=jeopardize+dict&oq=jeopardize+dict&gs_l=psy-ab.3..0l2j0i22i30l8.4619.5027..5308...0.0..1.229.481.4j0j1......0....1..gws-wiz.......0i71j0i67.dIyAjVhr0ts",
+                "stay_seconds": 6.091,
+                "time": "2018-11-22T14:54:11Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?ei=DMP2W5-nKpKtgQawyq64Bw&q=jeopardize+dict&oq=jeopardize+dict&gs_l=psy-ab.3..0l2j0i22i30l8.4619.5027..5308...0.0..1.229.481.4j0j1......0....1..gws-wiz.......0i71j0i67.dIyAjVhr0ts",
+                "current_url": "https://www.dict.cc/english-german/to+jeopardize.html",
+                "stay_seconds": 1.881,
+                "time": "2018-11-22T14:54:13Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.dict.cc/english-german/to+jeopardize.html",
+                "current_url": "https://medium.com/@JCsEZspeak/how-humans-are-evolving-into-harp-seals-b4c0409360f8",
+                "stay_seconds": 1.579,
+                "time": "2018-11-22T14:54:14Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@JCsEZspeak/how-humans-are-evolving-into-harp-seals-b4c0409360f8",
+                "current_url": "https://medium.com/@jennythaoho/a-dead-seals-story-49c01122b0c9",
+                "stay_seconds": 8.604,
+                "time": "2018-11-22T14:54:23Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@jennythaoho/a-dead-seals-story-49c01122b0c9",
+                "current_url": "https://medium.com/search?q=seals%20animals",
+                "stay_seconds": 3.656,
+                "time": "2018-11-22T14:54:27Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=seals%20animals",
+                "current_url": "https://medium.com/@angelinelontoh/information-about-the-ringed-seal-98d09e0a26e0",
+                "stay_seconds": 6.472,
+                "time": "2018-11-22T14:54:33Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@angelinelontoh/information-about-the-ringed-seal-98d09e0a26e0",
+                "current_url": "https://medium.com/search?q=seals%20animals",
+                "stay_seconds": 55.838,
+                "time": "2018-11-22T14:55:29Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/search?q=seals%20animals",
+                "current_url": "https://medium.com/@davepark/the-death-of-a-baby-seal-b668a8c3d770",
+                "stay_seconds": 10.104,
+                "time": "2018-11-22T14:55:39Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/@davepark/the-death-of-a-baby-seal-b668a8c3d770",
+                "current_url": "https://medium.com/the-awl/sea-otters-do-terrible-things-to-baby-seals-1e5cd2c20aee",
+                "stay_seconds": 10.86,
+                "time": "2018-11-22T14:55:50Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/the-awl/sea-otters-do-terrible-things-to-baby-seals-1e5cd2c20aee",
+                "current_url": "https://www.google.de/search?q=weaned+harbor+seal&oq=weaned+harbor+seal&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 31.447,
+                "time": "2018-11-22T14:56:21Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=weaned+harbor+seal&oq=weaned+harbor+seal&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.google.de/search?ei=lMP2W6rLK-rCgAaSxJGgDQ&q=weaned+dict&oq=weaned+dict&gs_l=psy-ab.3.0.0i22i30l3j0i22i10i30l2j0i22i30l5.2664.3014..3304...0.0..0.72.266.4......0....1..gws-wiz.......0j0i71.bRVM1tGknNI",
+                "stay_seconds": 3.929,
+                "time": "2018-11-22T14:56:25Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?ei=lMP2W6rLK-rCgAaSxJGgDQ&q=weaned+dict&oq=weaned+dict&gs_l=psy-ab.3.0.0i22i30l3j0i22i10i30l2j0i22i30l5.2664.3014..3304...0.0..0.72.266.4......0....1..gws-wiz.......0j0i71.bRVM1tGknNI",
+                "current_url": "https://www.dict.cc/?s=%5Bweaned%5D",
+                "stay_seconds": 2.196,
+                "time": "2018-11-22T14:56:27Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.dict.cc/?s=%5Bweaned%5D",
+                "current_url": "https://medium.com/the-awl/sea-otters-do-terrible-things-to-baby-seals-1e5cd2c20aee",
+                "stay_seconds": 2.622,
+                "time": "2018-11-22T14:56:30Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/the-awl/sea-otters-do-terrible-things-to-baby-seals-1e5cd2c20aee",
+                "current_url": "https://www.google.de/search?q=sea+otters+seals&oq=sea+otters+seals&aqs=chrome..69i57j69i60j0l4.2711j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 54.075,
+                "time": "2018-11-22T14:57:24Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=sea+otters+seals&oq=sea+otters+seals&aqs=chrome..69i57j69i60j0l4.2711j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://www.google.de/search?q=sea+otters+seals&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjLzsusoejeAhWKBcAKHfcICYMQ_AUIDygC&biw=1877&bih=1018",
+                "stay_seconds": 9.916,
+                "time": "2018-11-22T14:57:34Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=sea+otters+seals&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjLzsusoejeAhWKBcAKHfcICYMQ_AUIDygC&biw=1877&bih=1018",
+                "current_url": "https://www.theawl.com/2011/03/sea-otters-do-terrible-things-to-baby-seals/",
+                "stay_seconds": 3.824,
+                "time": "2018-11-22T14:57:38Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.theawl.com/2011/03/sea-otters-do-terrible-things-to-baby-seals/",
+                "current_url": "https://www.google.de/search?q=sea+otters+seals&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjLzsusoejeAhWKBcAKHfcICYMQ_AUIDygC&biw=1877&bih=1018",
+                "stay_seconds": 7.016,
+                "time": "2018-11-22T14:57:45Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=sea+otters+seals&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjLzsusoejeAhWKBcAKHfcICYMQ_AUIDygC&biw=1877&bih=1018",
+                "current_url": "https://www.youtube.com/watch?v=vK2_FLOTNmA",
+                "stay_seconds": 15.396,
+                "time": "2018-11-22T14:58:00Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.youtube.com/watch?v=vK2_FLOTNmA",
+                "current_url": "https://medium.com/the-awl/sea-otters-do-terrible-things-to-baby-seals-1e5cd2c20aee",
+                "stay_seconds": 8.896,
+                "time": "2018-11-22T14:58:09Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/the-awl/sea-otters-do-terrible-things-to-baby-seals-1e5cd2c20aee",
+                "current_url": "https://medium.com/search?q=sea%20otters",
+                "stay_seconds": 1.265,
+                "time": "2018-11-22T14:58:10Z"
+            }
+        ]
+    },
+    {
+        "task_id": 6,
+        "clickstream": [
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/",
+                "current_url": "https://medium.com/topic/politics",
+                "stay_seconds": 3.648,
+                "time": "2018-11-22T14:59:43Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/topic/politics",
+                "current_url": "https://medium.com/new-york-magazine/americas-fever-is-still-rising-3236d1e6f599?source=topic_page---------------------------20",
+                "stay_seconds": 15.092,
+                "time": "2018-11-22T14:59:58Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/new-york-magazine/americas-fever-is-still-rising-3236d1e6f599?source=topic_page---------------------------20",
+                "current_url": "https://medium.com/new-york-magazine/americas-fever-is-still-rising-3236d1e6f599",
+                "stay_seconds": 8.508,
+                "time": "2018-11-22T15:00:07Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/new-york-magazine/americas-fever-is-still-rising-3236d1e6f599",
+                "current_url": "https://medium.com/",
+                "stay_seconds": 2.629,
+                "time": "2018-11-22T15:00:10Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/",
+                "current_url": "https://medium.com/s/thenewnew/can-killer-robots-help-save-the-great-barrier-reef-8805d125d321",
+                "stay_seconds": 31.81,
+                "time": "2018-11-22T15:00:41Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/s/thenewnew/can-killer-robots-help-save-the-great-barrier-reef-8805d125d321",
+                "current_url": "https://medium.com/",
+                "stay_seconds": 1.135,
+                "time": "2018-11-22T15:00:43Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/",
+                "current_url": "https://medium.com/topic/politics",
+                "stay_seconds": 5.311,
+                "time": "2018-11-22T15:00:48Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://medium.com/topic/politics",
+                "current_url": "https://medium.com/topic/politics",
+                "stay_seconds": 13.535,
+                "time": "2018-11-22T15:01:01Z"
+            }
+        ]
+    },
+    {
+        "task_id": 7,
+        "clickstream": [
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/",
+                "current_url": "https://dribbble.com/session/new",
+                "stay_seconds": 3.72,
+                "time": "2018-11-22T15:01:24Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/session/new",
+                "current_url": "https://dribbble.com/",
+                "stay_seconds": 2.397,
+                "time": "2018-11-22T15:01:26Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/",
+                "current_url": "https://dribbble.com/shots/5555122-Dark-Mode-for-Evernote-for-Mac",
+                "stay_seconds": 8.939,
+                "time": "2018-11-22T15:01:35Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5555122-Dark-Mode-for-Evernote-for-Mac",
+                "current_url": "https://dribbble.com/",
+                "stay_seconds": 11.947,
+                "time": "2018-11-22T15:01:47Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/",
+                "current_url": "https://dribbble.com/",
+                "stay_seconds": 54.291,
+                "time": "2018-11-22T15:02:41Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/",
+                "current_url": "https://dribbble.com/search?q=company+logos",
+                "stay_seconds": 13.065,
+                "time": "2018-11-22T15:02:54Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=company+logos",
+                "current_url": "https://dribbble.com/shots/5424438-Moving-Company-logo",
+                "stay_seconds": 38.499,
+                "time": "2018-11-22T15:03:33Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5424438-Moving-Company-logo",
+                "current_url": "https://dribbble.com/shots/4827820-Target-Logo-concept#",
+                "stay_seconds": 12.257,
+                "time": "2018-11-22T15:03:45Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4827820-Target-Logo-concept#",
+                "current_url": "https://dribbble.com/shots/5424438-Moving-Company-logo",
+                "stay_seconds": 1.973,
+                "time": "2018-11-22T15:03:47Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5424438-Moving-Company-logo",
+                "current_url": "https://dribbble.com/search?q=company+logos",
+                "stay_seconds": 1.16,
+                "time": "2018-11-22T15:03:48Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=company+logos",
+                "current_url": "https://dribbble.com/shots/5272045-Logo-Design-Concept-for-Masonry-Company",
+                "stay_seconds": 5.913,
+                "time": "2018-11-22T15:03:54Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5272045-Logo-Design-Concept-for-Masonry-Company",
+                "current_url": "https://dribbble.com/shots/5520403-2018-19-Logo#",
+                "stay_seconds": 8.784,
+                "time": "2018-11-22T15:04:03Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5520403-2018-19-Logo#",
+                "current_url": "https://dribbble.com/shots/5272045-Logo-Design-Concept-for-Masonry-Company",
+                "stay_seconds": 2.054,
+                "time": "2018-11-22T15:04:05Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5272045-Logo-Design-Concept-for-Masonry-Company",
+                "current_url": "https://dribbble.com/search?q=company+logos",
+                "stay_seconds": 1.864,
+                "time": "2018-11-22T15:04:07Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=company+logos",
+                "current_url": "https://dribbble.com/shots/4816888-Video-Logo-Design",
+                "stay_seconds": 29.627,
+                "time": "2018-11-22T15:04:36Z"
+            }
+        ]
+    },
+    {
+        "task_id": 8,
+        "clickstream": [
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/",
+                "current_url": "https://www.google.de/search?q=dribble&oq=dribble&aqs=chrome..69i57j69i60j0l4.2038j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 4.191,
+                "time": "2018-11-22T15:05:28Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://www.google.de/search?q=dribble&oq=dribble&aqs=chrome..69i57j69i60j0l4.2038j0j7&sourceid=chrome&ie=UTF-8",
+                "current_url": "https://en.wikipedia.org/wiki/Dribbble",
+                "stay_seconds": 2.121,
+                "time": "2018-11-22T15:05:30Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://en.wikipedia.org/wiki/Dribbble",
+                "current_url": "https://dribbble.com/",
+                "stay_seconds": 37.687,
+                "time": "2018-11-22T15:06:08Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/",
+                "current_url": "https://dribbble.com/search?q=cat",
+                "stay_seconds": 7.301,
+                "time": "2018-11-22T15:06:15Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=cat",
+                "current_url": "https://dribbble.com/shots/4264375-Early-morning",
+                "stay_seconds": 10.431,
+                "time": "2018-11-22T15:06:26Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4264375-Early-morning",
+                "current_url": "https://dribbble.com/shots/4426226-Reclining-Cat",
+                "stay_seconds": 9.926,
+                "time": "2018-11-22T15:06:36Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4426226-Reclining-Cat",
+                "current_url": "https://dribbble.com/shots/4264375-Early-morning",
+                "stay_seconds": 6.555,
+                "time": "2018-11-22T15:06:42Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4264375-Early-morning",
+                "current_url": "https://dribbble.com/shots/4426226-Reclining-Cat",
+                "stay_seconds": 2.233,
+                "time": "2018-11-22T15:06:44Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4426226-Reclining-Cat",
+                "current_url": "https://dribbble.com/shots/4264375-Early-morning",
+                "stay_seconds": 1.955,
+                "time": "2018-11-22T15:06:46Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4264375-Early-morning",
+                "current_url": "https://dribbble.com/shots/4426226-Reclining-Cat",
+                "stay_seconds": 2.544,
+                "time": "2018-11-22T15:06:49Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4426226-Reclining-Cat",
+                "current_url": "https://dribbble.com/shots/4264375-Early-morning",
+                "stay_seconds": 4.968,
+                "time": "2018-11-22T15:06:54Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4264375-Early-morning",
+                "current_url": "https://dribbble.com/shots/4426226-Reclining-Cat",
+                "stay_seconds": 2.349,
+                "time": "2018-11-22T15:06:56Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4426226-Reclining-Cat",
+                "current_url": "https://dribbble.com/search?q=dog",
+                "stay_seconds": 12.534,
+                "time": "2018-11-22T15:07:09Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=dog",
+                "current_url": "https://dribbble.com/shots/4303907-Doggo",
+                "stay_seconds": 4.557,
+                "time": "2018-11-22T15:07:13Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4303907-Doggo",
+                "current_url": "https://dribbble.com/shots/5461970-Sunday-Mood",
+                "stay_seconds": 4.659,
+                "time": "2018-11-22T15:07:18Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5461970-Sunday-Mood",
+                "current_url": "https://dribbble.com/shots/5265538-Doge-likes-you",
+                "stay_seconds": 8.961,
+                "time": "2018-11-22T15:07:27Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5265538-Doge-likes-you",
+                "current_url": "https://dribbble.com/shots/5495296-Sweet-animals-08",
+                "stay_seconds": 2.086,
+                "time": "2018-11-22T15:07:29Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5495296-Sweet-animals-08",
+                "current_url": "https://dribbble.com/shots/3720409-Bork-bork-doing-me-quite-the-astound",
+                "stay_seconds": 7.719,
+                "time": "2018-11-22T15:07:37Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/3720409-Bork-bork-doing-me-quite-the-astound",
+                "current_url": "https://dribbble.com/shots/4303907-Doggo",
+                "stay_seconds": 1.167,
+                "time": "2018-11-22T15:07:38Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4303907-Doggo",
+                "current_url": "https://dribbble.com/shots/5461970-Sunday-Mood",
+                "stay_seconds": 1.901,
+                "time": "2018-11-22T15:07:40Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5461970-Sunday-Mood",
+                "current_url": "https://dribbble.com/shots/5265538-Doge-likes-you",
+                "stay_seconds": 1.875,
+                "time": "2018-11-22T15:07:42Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5265538-Doge-likes-you",
+                "current_url": "https://dribbble.com/shots/5495296-Sweet-animals-08",
+                "stay_seconds": 9.787,
+                "time": "2018-11-22T15:07:52Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5495296-Sweet-animals-08",
+                "current_url": "https://dribbble.com/shots/3720409-Bork-bork-doing-me-quite-the-astound",
+                "stay_seconds": 4.031,
+                "time": "2018-11-22T15:07:56Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/3720409-Bork-bork-doing-me-quite-the-astound",
+                "current_url": "https://dribbble.com/shots/5461970-Sunday-Mood",
+                "stay_seconds": 5.171,
+                "time": "2018-11-22T15:08:01Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5461970-Sunday-Mood",
+                "current_url": "https://dribbble.com/shots/3720409-Bork-bork-doing-me-quite-the-astound",
+                "stay_seconds": 1.442,
+                "time": "2018-11-22T15:08:02Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/3720409-Bork-bork-doing-me-quite-the-astound",
+                "current_url": "https://dribbble.com/shots/5461970-Sunday-Mood",
+                "stay_seconds": 1.349,
+                "time": "2018-11-22T15:08:04Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5461970-Sunday-Mood",
+                "current_url": "https://dribbble.com/search?q=dog",
+                "stay_seconds": 1.13,
+                "time": "2018-11-22T15:08:05Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=dog",
+                "current_url": "https://dribbble.com/shots/5461970-Sunday-Mood",
+                "stay_seconds": 0.857,
+                "time": "2018-11-22T15:08:06Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5461970-Sunday-Mood",
+                "current_url": "https://dribbble.com/search?q=ant",
+                "stay_seconds": 9.37,
+                "time": "2018-11-22T15:08:15Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=ant",
+                "current_url": "https://dribbble.com/shots/3734071-Ant",
+                "stay_seconds": 5.448,
+                "time": "2018-11-22T15:08:20Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/3734071-Ant",
+                "current_url": "https://dribbble.com/search?q=ant+animal",
+                "stay_seconds": 10.892,
+                "time": "2018-11-22T15:08:31Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=ant+animal",
+                "current_url": "https://dribbble.com/shots/143664-A-is-for-Ant",
+                "stay_seconds": 14.627,
+                "time": "2018-11-22T15:08:46Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/143664-A-is-for-Ant",
+                "current_url": "https://dribbble.com/shots/3734071-Ant",
+                "stay_seconds": 2.508,
+                "time": "2018-11-22T15:08:48Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/3734071-Ant",
+                "current_url": "https://dribbble.com/shots/143664-A-is-for-Ant",
+                "stay_seconds": 2.561,
+                "time": "2018-11-22T15:08:51Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/143664-A-is-for-Ant",
+                "current_url": "https://dribbble.com/search?q=ant+animal",
+                "stay_seconds": 7.914,
+                "time": "2018-11-22T15:08:59Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=ant+animal",
+                "current_url": "https://dribbble.com/search?q=ant",
+                "stay_seconds": 2.356,
+                "time": "2018-11-22T15:09:01Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=ant",
+                "current_url": "https://dribbble.com/shots/5358177-The-Ant",
+                "stay_seconds": 7.664,
+                "time": "2018-11-22T15:09:09Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5358177-The-Ant",
+                "current_url": "https://dribbble.com/shots/5358177-The-Ant",
+                "stay_seconds": 9.173,
+                "time": "2018-11-22T15:09:18Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5358177-The-Ant",
+                "current_url": "https://dribbble.com/search?q=ant",
+                "stay_seconds": 2.416,
+                "time": "2018-11-22T15:09:20Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=ant",
+                "current_url": "https://dribbble.com/search?q=ant+animal",
+                "stay_seconds": 1.404,
+                "time": "2018-11-22T15:09:22Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=ant+animal",
+                "current_url": "https://dribbble.com/shots/143664-A-is-for-Ant",
+                "stay_seconds": 4.074,
+                "time": "2018-11-22T15:09:26Z"
+            }
+        ]
+    },
+    {
+        "task_id": 9,
+        "clickstream": [
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/",
+                "current_url": "https://dribbble.com/search?q=seals",
+                "stay_seconds": 7.346,
+                "time": "2018-11-22T15:09:57Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=seals",
+                "current_url": "https://dribbble.com/shots/4924506--foggy-morning-seals",
+                "stay_seconds": 43.553,
+                "time": "2018-11-22T15:10:40Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4924506--foggy-morning-seals",
+                "current_url": "https://dribbble.com/shots/2387349-Drip-for-Drip",
+                "stay_seconds": 1.603,
+                "time": "2018-11-22T15:10:42Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/2387349-Drip-for-Drip",
+                "current_url": "https://dribbble.com/shots/3888461-Iceland-Impression-1",
+                "stay_seconds": 1.138,
+                "time": "2018-11-22T15:10:43Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/3888461-Iceland-Impression-1",
+                "current_url": "https://dribbble.com/shots/5105562-Seal",
+                "stay_seconds": 3.092,
+                "time": "2018-11-22T15:10:46Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5105562-Seal",
+                "current_url": "https://dribbble.com/search?q=sea+otters",
+                "stay_seconds": 13.191,
+                "time": "2018-11-22T15:10:59Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=sea+otters",
+                "current_url": "https://dribbble.com/shots/3604456-Sea-Otters-in-Love",
+                "stay_seconds": 3.814,
+                "time": "2018-11-22T15:11:03Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/3604456-Sea-Otters-in-Love",
+                "current_url": "https://dribbble.com/shots/2001098-Three-of-us",
+                "stay_seconds": 0.977,
+                "time": "2018-11-22T15:11:04Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/2001098-Three-of-us",
+                "current_url": "https://dribbble.com/shots/1101867-Sea-Otters-Build-2013",
+                "stay_seconds": 1.457,
+                "time": "2018-11-22T15:11:06Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/1101867-Sea-Otters-Build-2013",
+                "current_url": "https://dribbble.com/search?q=seals",
+                "stay_seconds": 0.921,
+                "time": "2018-11-22T15:11:07Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/search?q=seals",
+                "current_url": "https://dribbble.com/shots/4924506--foggy-morning-seals",
+                "stay_seconds": 4.833,
+                "time": "2018-11-22T15:11:11Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/4924506--foggy-morning-seals",
+                "current_url": "https://dribbble.com/shots/2387349-Drip-for-Drip",
+                "stay_seconds": 2.049,
+                "time": "2018-11-22T15:11:14Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/2387349-Drip-for-Drip",
+                "current_url": "https://dribbble.com/shots/3888461-Iceland-Impression-1",
+                "stay_seconds": 2.131,
+                "time": "2018-11-22T15:11:16Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/3888461-Iceland-Impression-1",
+                "current_url": "https://dribbble.com/shots/5105562-Seal",
+                "stay_seconds": 8.697,
+                "time": "2018-11-22T15:11:24Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/5105562-Seal",
+                "current_url": "https://dribbble.com/shots/3604456-Sea-Otters-in-Love",
+                "stay_seconds": 2.478,
+                "time": "2018-11-22T15:11:27Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/3604456-Sea-Otters-in-Love",
+                "current_url": "https://dribbble.com/shots/2001098-Three-of-us",
+                "stay_seconds": 10.363,
+                "time": "2018-11-22T15:11:37Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/2001098-Three-of-us",
+                "current_url": "https://dribbble.com/shots/1101867-Sea-Otters-Build-2013",
+                "stay_seconds": 8.617,
+                "time": "2018-11-22T15:11:46Z"
+            },
+            {
+                "user_id": 16,
+                "previous_url": "https://dribbble.com/shots/1101867-Sea-Otters-Build-2013",
+                "current_url": "https://www.google.de/search?q=mongoexport+collection&oq=mongoexport+collection&aqs=chrome..69i57j0l5.4631j0j7&sourceid=chrome&ie=UTF-8",
+                "stay_seconds": 682.19,
+                "time": "2018-11-22T15:23:08Z"
+            }
+        ]
+    }
+]

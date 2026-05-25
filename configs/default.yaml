@@ -1,0 +1,14 @@
+data_dir: data/processed
+vocab_path: data/vocabs.txt
+split_ratio: 0.99
+latent_dim: 10
+batch_size: 32
+epochs: 10
+train_ratio: 0.92
+validation_split: 0.2
+early_stopping_patience: 10
+checkpoint_dir: outputs/checkpoints
+log_dir: outputs/logs
+metrics_dir: outputs/metrics
+figures_dir: outputs/figures
+pretrained_path: artifacts/pretrained/best.h5

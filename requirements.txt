@@ -1,0 +1,6 @@
+# Python 3.14+: use Keras 3 with PyTorch backend (TensorFlow has no wheel yet).
+keras>=3.0
+torch>=2.0
+numpy>=1.23
+pyyaml>=6.0
+matplotlib>=3.7
