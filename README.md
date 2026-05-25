@@ -2,6 +2,50 @@
 
 訪問したURLの系列から次の訪問先を予測する GRU Encoder–Decoder（seq2seq）の学習・評価用リポジトリ。（データは `data/` に同梱）。
 
+### モデルに入力するデータの型と形状
+
+**1. ファイル上の JSON**（`data/processed/{user_id}.json`）
+
+| 階層 | 型 | 説明 |
+|------|-----|------|
+| ルート | `list[dict]` | 長さ 9（タスク数） |
+| 各要素 | `dict` | キー: `task_id: int`, `clickstream: list[dict]` |
+| `clickstream` の1要素 | `dict` | `user_id: int`, `previous_url: str`, `current_url: str`, `stay_seconds: float`, `time: str`（ISO8601） |
+
+`clickstream` は「遷移ログの配列」であり、配列の並び順が時間順。モデル学習では **`previous_url` の列だけ**を取り出し、他フィールドはテンソル化しない。
+
+**2. 1サンプル（1タスク）の中間表現**（`src/dataset.py`）
+
+| 変数 | 型 | 長さの目安 |
+|------|-----|------------|
+| URL列 | `list[str]` | クリック数 = `len(clickstream)` |
+| トークン列（入力側） | `list[int]` | `1 + len(先頭部分) + (0 or 1)`（`<SOA>`, URL…, 任意で `<COI>`） |
+| トークン列（出力側） | `list[int]` | `len(末尾部分) + 1`（URL…, `<EOA_*>`） |
+
+先頭/末尾の切り方: `split_ratio`（既定 `0.99`）で URL列を  
+`sentence[:int(len(sentence)*split_ratio)]` と `sentence[int(len(sentence)*split_ratio):]` に分割。
+
+語彙: `data/vocabs.txt` の行番号がトークン ID。語彙数 `V` ≈ 2873（特殊トークン 8 個 + URL）。
+
+**3. バッチ化後の NumPy 配列**（全 189 サンプル = 21 ユーザー × 9 タスク）
+
+`configs/default.yaml` の `split_ratio: 0.99` 時の実測例:
+
+| 名前 | dtype | shape | 内容 |
+|------|-------|-------|------|
+| `input_s` | `int64` | `(189, 90)` | エンコーダ第1入力（パディング値 `0` = `<PAD>`） |
+| `output_s` | `int64` | `(189, 1)` | デコーダ第2入力（教師強制用トークン ID） |
+| `output_s_one_shot` | `float32` | `(189, 1, 2873)` | 正解ラベル（各時刻の one-hot、語彙次元 `V`） |
+
+**4. `model.fit` の引数**
+
+```text
+X = [input_s, output_s]   # 長さ2のリスト（多入力）
+y = output_s_one_shot     # shape (N, T_out, V)
+```
+
+`N=189`。`T_in`, `T_out` はデータセット内の最大クリック長と `split_ratio` から決まる（上記例では `T_in=90`, `T_out=1`）。
+
 ## ディレクトリ構成
 
 ```
@@ -95,7 +139,7 @@ CC-BY-NC 4.0 / MIT（HCI 修士論文データセット由来）
 
 
 
-### 出典
+## 出典
 
 [https://github.com/changkun/MasterThesisHCI/tree/master](https://github.com/changkun/MasterThesisHCI/tree/master)
 
