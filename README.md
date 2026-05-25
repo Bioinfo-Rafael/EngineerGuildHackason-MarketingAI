@@ -1,6 +1,6 @@
 # workflow — Action Path Model (APM) ML Pipeline
 
-クリックストリーム（URL 列）の続きを予測する GRU Encoder–Decoder（seq2seq）の学習・評価用リポジトリ。**このディレクトリだけで完結**します（データは `data/` に同梱）。
+訪問したURLの系列から次の訪問先を予測する GRU Encoder–Decoder（seq2seq）の学習・評価用リポジトリ。（データは `data/` に同梱）。
 
 ## ディレクトリ構成
 
@@ -53,13 +53,15 @@ python -m src.predict --user-id 1 --task-id 1
 
 ## 設定
 
-[`configs/default.yaml`](configs/default.yaml) を編集します。
+`[configs/default.yaml](configs/default.yaml)` を編集します。
 
-| キー | 既定 | 説明 |
-|------|------|------|
-| `epochs` | 10 | smoke 用。本番は 1500 などに変更 |
-| `split_ratio` | 0.99 | 時系列の入力/出力分割比 |
-| `train_ratio` | 0.92 | train / holdout 分割 |
+
+| キー            | 既定   | 説明                     |
+| ------------- | ---- | ---------------------- |
+| `epochs`      | 10   | smoke 用。本番は 1500 などに変更 |
+| `split_ratio` | 0.99 | 時系列の入力/出力分割比           |
+| `train_ratio` | 0.92 | train / holdout 分割     |
+
 
 論文に近い予測評価:
 
@@ -90,3 +92,10 @@ python3 scripts/build_vocab.py   # vocabs.txt を再生成
 ## ライセンス
 
 CC-BY-NC 4.0 / MIT（HCI 修士論文データセット由来）
+
+
+
+### 出典
+
+[https://github.com/changkun/MasterThesisHCI/tree/master](https://github.com/changkun/MasterThesisHCI/tree/master)
+
